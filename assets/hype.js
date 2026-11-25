@@ -76,3 +76,23 @@
   // Amadeus, the site guide
   var am = document.createElement('script'); am.src = '/assets/amadeus-ask.js?v=20261125b'; am.defer = true; document.head.appendChild(am);
 })();
+
+/* Share button: small, in the page header when there is one */
+(function(){
+  if(window.__amShare)return;window.__amShare=1;
+  function go(){
+    if(document.querySelector('.am-share'))return;
+    var b=document.createElement('button');b.type='button';b.className='am-share';b.textContent='Share';
+    b.setAttribute('aria-label','Share this page');
+    b.onclick=function(){var d={title:document.title,url:location.href.split('#')[0]};
+      if(navigator.share){navigator.share(d).catch(function(){});return;}
+      try{navigator.clipboard.writeText(d.url);b.textContent='Link copied';setTimeout(function(){b.textContent='Share';},1800);}catch(e){prompt('Copy this link:',d.url);}};
+    var st=document.createElement('style');
+    st.textContent='.am-share{font:600 13px/1 "IBM Plex Sans",system-ui,sans-serif;color:#fff;background:transparent;border:1.5px solid rgba(255,255,255,.55);border-radius:999px;padding:8px 14px;cursor:pointer;white-space:nowrap}.am-share:hover{border-color:#fff}.am-share.float{position:fixed;top:10px;right:10px;z-index:2000;background:rgba(0,0,0,.6)}';
+    document.head.appendChild(st);
+    var slot=document.querySelector('.nav-ctas')||document.querySelector('header .tnav')||document.querySelector('header nav');
+    var back=null;if(!slot){var as=document.querySelectorAll('a');for(var i=0;i<as.length;i++){if(/^\s*\u2190/.test(as[i].textContent)){back=as[i];break;}}}
+    if(slot){slot.appendChild(b);}else if(back){b.style.marginLeft='14px';back.insertAdjacentElement('afterend',b);}else{b.classList.add('float');document.body.appendChild(b);}
+  }
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',go);else go();
+})();
