@@ -889,6 +889,7 @@ var red=matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 <script>
 function signup(formId,emailId,noteId,where){
+ if(!document.getElementById(formId))return;
  document.getElementById(formId).addEventListener('submit',function(e){
   e.preventDefault();
   var em=document.getElementById(emailId), note=document.getElementById(noteId), btn=this.querySelector('button');
@@ -957,7 +958,7 @@ window.amadeusTour=start;
 if(/[?&]tour=1/.test(location.search))setTimeout(start,800);
 })();
 </script>
-<script src="/assets/amadeus-ask.js?v=20261125b" defer></script>
+<script src="/assets/amadeus-ask.js?v=off1" defer></script>
 <script src="sounds/kit/kit.js?v=4"></script>
 <script>
 /* Know the kit: plays the same recorded drum samples the interactive kit uses. */

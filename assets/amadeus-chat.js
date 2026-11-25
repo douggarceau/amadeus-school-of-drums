@@ -1,5 +1,6 @@
 /* Ask Amadeus: the AI chat helper. Talks to the Cloudflare Worker in /worker. */
 (function () {
+/* turned off for now (Nov 25, 2026): delete this line to bring it back */ return;
   if (window.__amadeusChat) return; window.__amadeusChat = 1;
 
   /* Paste the Worker address here once it's set up (see worker/README.md). Empty = chat stays hidden. */

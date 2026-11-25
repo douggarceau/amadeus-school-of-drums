@@ -1,5 +1,6 @@
 /* Amadeus, the site guide: a talking speech bubble that explains each page, plus the site-wide tour. */
 (function(){
+/* turned off for now (Nov 25, 2026): delete this line to bring it back */ return;
 if(window.__askAmadeus)return;window.__askAmadeus=1;
 
 /* ---------- what Amadeus says on each page ---------- */

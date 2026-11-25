@@ -4,7 +4,6 @@
   if (window.__hype) return; window.__hype = 1;
   var TICK = [
     ['/app/', 'NEW: Get the Amadeus app on your phone'],
-    ['/studio/hart/', 'ALL NEW: 200 samples, the sounds of Mickey Hart of the Grateful Dead'],
     ['/studio/fx/', 'Hollywood movie sound FX'],
     ['/studio/beats/', 'Drum machine: hip-hop, trap, electronic and acoustic kits'],
     ['/studio/fx/#industrial', 'Industrial loops and metal hits'],
@@ -16,7 +15,6 @@
     ['/shop/', 'Gear Shop: drums, cymbals, heads and sticks']
   ];
   var BOX = [
-    ['/studio/hart/', 'ALL NEW', '200 SAMPLES', 'The Sounds of Mickey Hart', 'of the Grateful Dead', 'PLAY THEM NOW', '#f0932b'],
     ['/shop/#drumsets', 'IN OUR GEAR SHOP', 'DRUM SETS', 'DW Drums', 'Pro drum sets, explained', 'SEE THEM', '#e6e2d8'],
     ['/shop/#cymbals', 'IN OUR GEAR SHOP', 'CYMBALS', 'Zildjian Cymbals', 'Crashes, rides, hats and more', 'SEE THEM', '#e6b450'],
     ['/shop/#hardware', 'IN OUR GEAR SHOP', 'DRUMHEADS', 'Evans Drumheads', 'The right head for your sound', 'SEE THEM', '#5dade2'],
@@ -74,7 +72,7 @@
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', build); else build();
   // Amadeus, the site guide
-  var am = document.createElement('script'); am.src = '/assets/amadeus-ask.js?v=20261125b'; am.defer = true; document.head.appendChild(am);
+  var am = document.createElement('script'); am.src = '/assets/amadeus-ask.js?v=off1'; am.defer = true; document.head.appendChild(am);
 })();
 
 /* Share button: small, in the page header when there is one */
