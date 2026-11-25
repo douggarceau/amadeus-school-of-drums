@@ -14,7 +14,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#0a0a0a;--ink:#f2f0ea;--muted:#a9a69e;--line:#2a2a2a;--panel:#121212;--gold:#e0283c;--up:#ff7a00;--down:#5dade2}
+:root{--bg:#0a0a0a;--ink:#f2f0ea;--muted:#a9a69e;--line:#2a2a2a;--panel:#121212;--gold:#e6e2d8;--up:#ff7a00;--down:#5dade2}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:'IBM Plex Sans',system-ui,sans-serif;font-size:15.5px;line-height:1.5}
 a{color:var(--gold)}
@@ -66,7 +66,7 @@ select{background:#0d0d0d;border:1px solid #333;color:#fff;border-radius:8px;pad
 .empty{color:var(--muted);text-align:center;padding:30px 10px;border:1px dashed #333;border-radius:10px}
 .rules li{margin:0 0 6px;font-size:13.5px;color:#cfcdc6}
 .rules ol{margin:0;padding-left:18px}
-.demo{background:#2a1d00;border:1px solid #6b4b00;color:#ff8a96;border-radius:8px;padding:8px 12px;font-size:13.5px;margin:0 0 10px}
+.demo{background:#2a1d00;border:1px solid #6b4b00;color:#d8d4ca;border-radius:8px;padding:8px 12px;font-size:13.5px;margin:0 0 10px}
 .soon{border:2px solid var(--gold);border-radius:12px;padding:20px;background:#121110;margin:0 0 14px}
 @media(max-width:1000px){.layout{grid-template-columns:minmax(0,1fr)}.side{order:2}.rail{order:3}.topics{display:flex;flex-wrap:wrap;gap:4px}.topics button{width:auto}}
 </style>
@@ -103,7 +103,7 @@ select{background:#0d0d0d;border:1px solid #333;color:#fff;border-radius:8px;pad
 var SUPABASE_URL = '';
 var SUPABASE_ANON_KEY = '';
 /* ================================================================================ */
-var TOPICS=[['all','All topics','#e0283c'],['general','General','#e0283c'],['gear','Gear Talk','#ff7a00'],['practice','Practice & Technique','#39ff14'],['kits','Show Your Kit','#00b7ff'],['vintage','Vintage Drums','#c8963e'],['gigs','Gigs & Bands','#ff2d6f'],['electronic','E-Drums & MIDI','#b45cff'],['tech','AI & Tech','#00f0d0'],['forsale','For Sale','#58d68d'],['wanted','Wanted','#e0283c']];
+var TOPICS=[['all','All topics','#e6e2d8'],['general','General','#e6e2d8'],['gear','Gear Talk','#ff7a00'],['practice','Practice & Technique','#39ff14'],['kits','Show Your Kit','#00b7ff'],['vintage','Vintage Drums','#c8963e'],['gigs','Gigs & Bands','#ff2d6f'],['electronic','E-Drums & MIDI','#b45cff'],['tech','AI & Tech','#00f0d0'],['forsale','For Sale','#58d68d'],['wanted','Wanted','#e6e2d8']];
 var CLASS={forsale:1,wanted:1};
 var TC={};TOPICS.forEach(function(t){TC[t[0]]=t;});
 var DEMO=/[?&]demo=1/.test(location.search)||!SUPABASE_URL;

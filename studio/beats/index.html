@@ -17,7 +17,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/wide.css?v=7">
 <style>
-:root{--bg:#0a0a0a;--ink:#fff;--muted:#c4c4c4;--line:#2e2e2e;--gold:#e0283c;--gold2:#ffe9a8;--c:#e0283c}
+:root{--bg:#0a0a0a;--ink:#fff;--muted:#c4c4c4;--line:#2e2e2e;--gold:#e6e2d8;--gold2:#ffe9a8;--c:#e6e2d8}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:'IBM Plex Sans',system-ui,sans-serif;font-size:17px;line-height:1.6}
 a{color:var(--gold)}
@@ -82,7 +82,7 @@ select{background:#161616;color:var(--ink);border:1px solid var(--line);border-r
 <div class="kits" role="group" aria-label="Choose a kit">
   <button class="kit" data-kit="hh" style="--kc:#e67e22" aria-pressed="true">Hip-hop &amp; Trap</button>
   <button class="kit" data-kit="el" style="--kc:#5dade2" aria-pressed="false">Electronic</button>
-  <button class="kit" data-kit="ac" style="--kc:#e0283c" aria-pressed="false">Acoustic drums</button>
+  <button class="kit" data-kit="ac" style="--kc:#e6e2d8" aria-pressed="false">Acoustic drums</button>
 </div>
 
 <div class="bar" role="toolbar" aria-label="Transport">
@@ -117,8 +117,8 @@ var KITS={
  hh:{name:'Hip-hop & Trap',rows:[
   ['kick','Kick',S+'hh-kick','#e67e22'],
   ['kick2','Punch kick',S+'hh-kick2','#e67e22'],
-  ['snare','Snare',S+'hh-snare','#e0283c'],
-  ['clap','Clap',S+'hh-clap','#e0283c'],
+  ['snare','Snare',S+'hh-snare','#e6e2d8'],
+  ['clap','Clap',S+'hh-clap','#e6e2d8'],
   ['rim','Rim',S+'hh-rim','#d4ac0d'],
   ['hat','Hi-hat',S+'hh-hat','#58d68d','h'],
   ['open','Open hat',S+'hh-open','#2ecc71','h'],
@@ -147,7 +147,7 @@ var KITS={
    'Drum and bass':{bpm:172,sw:0,key:5,g:{kick:'1000000000100000',snare:'0000100000001000',hat:'1010101010101010',kick2:'1000000000000000',bass:'1000000000000000'}}
   }},
  ac:{name:'Acoustic drums',rows:[
-  ['kick','Bass drum',K+'kick-mf','#e0283c'],
+  ['kick','Bass drum',K+'kick-mf','#e6e2d8'],
   ['snare','Snare',K+'snare-mf','#f5b041'],
   ['rim','Cross-stick',K+'rim','#d4ac0d'],
   ['hat','Hi-hat',K+'hh','#58d68d','h'],
