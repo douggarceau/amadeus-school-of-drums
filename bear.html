@@ -691,7 +691,6 @@ function buildNav(){var nav=$("tabs");nav.innerHTML="";nav.insertAdjacentHTML("b
    b.innerHTML='<span class="k"></span><span class="nm"></span><span class="ck">'+useIcon("check")+'</span>';b.querySelector(".k").textContent=i+1;b.querySelector(".nm").textContent=L.name;
    b.addEventListener("click",function(){select(i);});li.appendChild(b);ol.appendChild(li);});
   p.appendChild(ol);nav.appendChild(p);});
- var q=document.createElement("p");q.className="quote";q.textContent="“Music builds brighter humans.” — Amadeus School of Drums";nav.appendChild(q);
  var pk=$("picker");pk.innerHTML="";idx=0;UNITS.forEach(function(u){var g=document.createElement("optgroup");g.label=u.name;u.lessons.forEach(function(L){var o=document.createElement("option");o.value=idx;o.textContent=(idx+1)+". "+L.name;idx++;g.appendChild(o);});pk.appendChild(g);});
  pk.addEventListener("change",function(){select(+pk.value);});}
 function refreshProgress(){var total=LESSONS.length,n=0;for(var k in done)if(done[k])n++;
