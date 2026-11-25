@@ -61,7 +61,7 @@ textarea{min-height:110px;resize:vertical}
 select{background:#0d0d0d;border:1px solid #333;color:#fff;border-radius:8px;padding:9px 11px;font:inherit}
 .form{display:flex;flex-direction:column;gap:8px}
 .note{font-size:13px;color:var(--muted)}
-.err{color:#ff8a7a;font-size:13.5px}
+.err{color:#c0beb9;font-size:13.5px}
 .ok{color:#8fe388;font-size:13.5px}
 .empty{color:var(--muted);text-align:center;padding:30px 10px;border:1px dashed #333;border-radius:10px}
 .rules li{margin:0 0 6px;font-size:13.5px;color:#cfcdc6}
@@ -103,7 +103,7 @@ select{background:#0d0d0d;border:1px solid #333;color:#fff;border-radius:8px;pad
 var SUPABASE_URL = '';
 var SUPABASE_ANON_KEY = '';
 /* ================================================================================ */
-var TOPICS=[['all','All topics','#e6e2d8'],['general','General','#e6e2d8'],['gear','Gear Talk','#ff7a00'],['practice','Practice & Technique','#39ff14'],['kits','Show Your Kit','#00b7ff'],['vintage','Vintage Drums','#c8963e'],['gigs','Gigs & Bands','#ff2d6f'],['electronic','E-Drums & MIDI','#b45cff'],['tech','AI & Tech','#00f0d0'],['forsale','For Sale','#58d68d'],['wanted','Wanted','#e6e2d8']];
+var TOPICS=[['all','All topics','#e6e2d8'],['general','General','#e6e2d8'],['gear','Gear Talk','#ff7a00'],['practice','Practice & Technique','#39ff14'],['kits','Show Your Kit','#00b7ff'],['vintage','Vintage Drums','#c8963e'],['gigs','Gigs & Bands','#a4a198'],['electronic','E-Drums & MIDI','#b45cff'],['tech','AI & Tech','#00f0d0'],['forsale','For Sale','#58d68d'],['wanted','Wanted','#e6e2d8']];
 var CLASS={forsale:1,wanted:1};
 var TC={};TOPICS.forEach(function(t){TC[t[0]]=t;});
 var DEMO=/[?&]demo=1/.test(location.search)||!SUPABASE_URL;

@@ -21,25 +21,25 @@
     ['/shop/#cymbals', 'IN OUR GEAR SHOP', 'CYMBALS', 'Zildjian Cymbals', 'Crashes, rides, hats and more', 'SEE THEM', '#e6b450'],
     ['/shop/#hardware', 'IN OUR GEAR SHOP', 'DRUMHEADS', 'Evans Drumheads', 'The right head for your sound', 'SEE THEM', '#5dade2'],
     ['/shop/#sticks', 'IN OUR GEAR SHOP', 'STICKS', 'Vic Firth Sticks', 'Sticks, brushes and mallets', 'SEE THEM', '#e67e22'],
-    ['/shop/#drumsets', 'IN OUR GEAR SHOP', 'DRUM SETS', 'Ludwig Drums', 'Classic kits and snares', 'SEE THEM', '#e74c3c'],
+    ['/shop/#drumsets', 'IN OUR GEAR SHOP', 'DRUM SETS', 'Ludwig Drums', 'Classic kits and snares', 'SEE THEM', '#a4a198'],
     ['/shop/#hardware', 'IN OUR GEAR SHOP', 'DRUMHEADS', 'Remo Drumheads', 'Heads for every drum', 'SEE THEM', '#a6acaf'],
     ['/shop/#cymbals', 'IN OUR GEAR SHOP', 'CYMBALS', 'Paiste Cymbals', 'Bright, musical cymbals', 'SEE THEM', '#e6e2d8'],
     ['/shop/#electronic', 'IN OUR GEAR SHOP', 'ELECTRONIC DRUMS', 'Roland V-Drums', 'Electronic kits and pads', 'SEE THEM', '#9477ff'],
     ['/shop/#percussion', 'IN OUR GEAR SHOP', 'PERCUSSION', 'LP Percussion', 'Congas, bongos, shakers and more', 'SEE THEM', '#58d68d'],
-    ['/advertise/', 'ADVERTISE', 'YOUR BRAND HERE', 'Your Drum Shop Here', 'Put your brand in front of drummers', 'GET IN TOUCH', '#ff3b2f']
+    ['/advertise/', 'ADVERTISE', 'YOUR BRAND HERE', 'Your Drum Shop Here', 'Put your brand in front of drummers', 'GET IN TOUCH', '#a4a198']
   ];
   function esc(t) { return String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;'); }
   var css = ''
     + '.hy-tick{position:relative;z-index:1001;display:flex;height:32px;background:#e6e2d8;color:#0a0a0a;overflow:hidden;font:600 13px/32px "IBM Plex Mono",ui-monospace,monospace;letter-spacing:.04em}'
-    + '.hy-new{flex:none;background:#c0392b;color:#fff;padding:0 12px;letter-spacing:.2em;animation:hyfl 1.1s steps(2,start) infinite}'
+    + '.hy-new{flex:none;background:#a4a198;color:#fff;padding:0 12px;letter-spacing:.2em;animation:hyfl 1.1s steps(2,start) infinite}'
     + '.hy-view{flex:1;overflow:hidden}.hy-track{display:flex;width:max-content;animation:hysc 42s linear infinite}'
     + '.hy-tick:hover .hy-track,.hy-tick:focus-within .hy-track{animation-play-state:paused}'
     + '.hy-run{display:flex;white-space:nowrap}.hy-run a{color:#0a0a0a!important;text-decoration:none;padding:0 15px}.hy-run a:hover{text-decoration:underline}.hy-run i{font-style:normal;opacity:.55}'
-    + '@keyframes hysc{to{transform:translateX(-50%)}}@keyframes hyfl{0%{background:#c0392b}50%{background:#ff3b2f}}'
+    + '@keyframes hysc{to{transform:translateX(-50%)}}@keyframes hyfl{0%{background:#a4a198}50%{background:#a4a198}}'
     + '.hy-box{position:fixed;left:16px;bottom:16px;z-index:900;width:250px;display:grid}'
     + '.hy-box a{grid-area:1/1;display:flex;flex-direction:column;padding:12px 16px;border-radius:12px;border:2px solid var(--c);text-decoration:none!important;color:#fff!important;background:radial-gradient(ellipse at 15% 30%,color-mix(in srgb,var(--c) 45%,transparent),transparent 60%),#15130f;opacity:0;visibility:hidden;transition:opacity .6s,visibility .6s;animation:hygl 1.2s ease-in-out infinite;font-family:"IBM Plex Sans",system-ui,sans-serif}'
     + '.hy-box a.on{opacity:1;visibility:visible}.hy-box a.on .hy-h{animation:hypop .5s ease-out}'
-    + '.hy-t{font:700 11px "IBM Plex Mono",ui-monospace,monospace;letter-spacing:.14em;color:#d8d4ca}.hy-t b{background:#c0392b;color:#fff;padding:2px 6px;border-radius:3px;margin-right:6px;animation:hyfl 1.1s steps(2,start) infinite}'
+    + '.hy-t{font:700 11px "IBM Plex Mono",ui-monospace,monospace;letter-spacing:.14em;color:#d8d4ca}.hy-t b{background:#a4a198;color:#fff;padding:2px 6px;border-radius:3px;margin-right:6px;animation:hyfl 1.1s steps(2,start) infinite}'
     + '.hy-h{font-family:"Bebas Neue",Impact,sans-serif;font-size:26px;line-height:1.05;margin-top:6px;letter-spacing:.02em}.hy-s{font-size:13px;color:#ddd}.hy-g{margin-top:5px;font:700 11px "IBM Plex Mono",ui-monospace,monospace;letter-spacing:.14em;color:#e6e2d8}'
     + '.hy-x{position:absolute;top:-9px;right:-9px;z-index:2;width:24px;height:24px;border-radius:50%;border:0;background:#333;color:#fff;font:700 14px/24px sans-serif;cursor:pointer;padding:0}'
     + '@keyframes hygl{0%,100%{box-shadow:0 0 12px color-mix(in srgb,var(--c) 40%,transparent)}50%{box-shadow:0 0 0 3px color-mix(in srgb,var(--c) 55%,transparent),0 0 40px var(--c)}}'

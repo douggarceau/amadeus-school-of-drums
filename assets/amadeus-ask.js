@@ -65,11 +65,11 @@ var css='.amg{position:fixed;right:16px;bottom:16px;z-index:1990;display:flex;fl
 '[data-snd]{all:unset;cursor:pointer;font:900 13px "IBM Plex Mono",monospace!important;letter-spacing:.1em;padding:7px 13px!important;border-radius:8px!important;color:#000!important;opacity:.78;transition:opacity .2s,box-shadow .2s,transform .1s}'+
 '[data-snd]:active{transform:translateY(1px)}'+
 '[data-snd=on]{background:#39ff14!important;border:2px solid #1fd100!important}'+
-'[data-snd=off]{background:#ff1f4b!important;border:2px solid #e0002c!important;color:#fff!important}'+
+'[data-snd=off]{background:#a4a198!important;border:2px solid #a4a198!important;color:#fff!important}'+
 '[data-snd][aria-pressed=true]{opacity:1}'+
 '[data-snd=on][aria-pressed=true]{box-shadow:0 0 6px #39ff14,0 0 18px #39ff14,0 0 32px rgba(57,255,20,.8)!important;animation:sndon 1.4s ease-in-out infinite alternate}'+
-'[data-snd=off][aria-pressed=true]{box-shadow:0 0 6px #ff1f4b,0 0 18px #ff1f4b,0 0 32px rgba(255,31,75,.8)!important;animation:sndoff 1.4s ease-in-out infinite alternate}'+
-'@keyframes sndon{to{box-shadow:0 0 10px #39ff14,0 0 26px #39ff14,0 0 44px #39ff14}}@keyframes sndoff{to{box-shadow:0 0 10px #ff1f4b,0 0 26px #ff1f4b,0 0 44px #ff1f4b}}'+
+'[data-snd=off][aria-pressed=true]{box-shadow:0 0 6px #a4a198,0 0 18px #a4a198,0 0 32px rgba(164,161,152,.8)!important;animation:sndoff 1.4s ease-in-out infinite alternate}'+
+'@keyframes sndon{to{box-shadow:0 0 10px #39ff14,0 0 26px #39ff14,0 0 44px #39ff14}}@keyframes sndoff{to{box-shadow:0 0 10px #a4a198,0 0 26px #a4a198,0 0 44px #a4a198}}'+
 '.amg-sl{color:#000!important}'+
 '.amg-n{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:9px}.amg-n span{font:600 11px "IBM Plex Mono",monospace;color:#777;margin-right:auto}'+
 '.amg-n a,.amg-n button{display:inline-flex;align-items:center;line-height:1.2;height:auto;min-height:0;width:auto;margin:0;box-shadow:none;letter-spacing:0;text-transform:none;font:700 12px "IBM Plex Sans",sans-serif;border:1px solid #ccc;background:#fff;color:#222;border-radius:6px;padding:5px 9px;cursor:pointer;text-decoration:none}.amg-n .go{background:#e6e2d8;border-color:#d9a520;color:#111}'+

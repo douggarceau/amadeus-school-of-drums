@@ -26,7 +26,7 @@
     '.amc-m.u{align-self:flex-end;background:#b9b5aa;color:#050606;border-bottom-right-radius:4px}' +
     '.amc-m.a{align-self:flex-start;background:#1c2024;border-bottom-left-radius:4px}' +
     '.amc-m.a a{color:#b9b5aa}.amc-m p{margin:0 0 6px}.amc-m p:last-child{margin:0}.amc-m ul{margin:4px 0;padding-left:18px}' +
-    '.amc-m.err{background:#3a1416;color:#ffd0d0}' +
+    '.amc-m.err{background:#292825;color:#e9e8e6}' +
     '.amc-dots span{display:inline-block;width:7px;height:7px;margin:0 2px;border-radius:50%;background:#aaa9a3;animation:amcb 1s infinite}' +
     '.amc-dots span:nth-child(2){animation-delay:.15s}.amc-dots span:nth-child(3){animation-delay:.3s}' +
     '@keyframes amcb{0%,80%,100%{opacity:.25}40%{opacity:1}}' +

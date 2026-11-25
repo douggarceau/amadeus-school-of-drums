@@ -34,8 +34,8 @@ h2{font-family:'Bebas Neue',Impact,sans-serif;font-weight:400;font-size:32px;let
 .scene:hover,.scene.on{background:var(--gold);color:#0a0a0a}
 .vol{display:flex;align-items:center;gap:8px;margin-left:auto;font-size:14px;color:var(--muted)}
 .vol input{accent-color:var(--gold);width:140px}
-.stop{min-height:42px;padding:0 18px;border-radius:999px;border:0;background:#c0392b;color:#fff;font:inherit;font-weight:600;cursor:pointer}
-.stop:hover{background:#e74c3c}
+.stop{min-height:42px;padding:0 18px;border-radius:999px;border:0;background:#a4a198;color:#fff;font:inherit;font-weight:600;cursor:pointer}
+.stop:hover{background:#a4a198}
 .groups{display:grid;grid-template-columns:repeat(auto-fill,minmax(400px,1fr));gap:16px}
 .grp{border:1px solid var(--line);border-radius:12px;padding:14px;background:#111}
 .grp p{margin:-4px 0 10px;color:var(--muted);font-size:14px}
@@ -84,7 +84,7 @@ h2{font-family:'Bebas Neue',Impact,sans-serif;font-weight:400;font-size:32px;let
 var G=[
  {id:'weather',name:'Weather',c:'#5dade2',d:'Rain, wind and thunder. Loop the rain and wind, then drop thunder on top.',p:[
   ['fx-rain','Rain on the window',1],['fx-wind','Howling wind',1],['fx-leaves','Wind in the leaves',1],['fx-thunder-clap','Thunder clap'],['fx-thunder-close','Close lightning strike'],['fx-thunder-roll','Distant rumble']]},
- {id:'horror',name:'Horror',c:'#c0392b',d:'Creaks, chains and things that go bump in the night.',p:[
+ {id:'horror',name:'Horror',c:'#a4a198',d:'Creaks, chains and things that go bump in the night.',p:[
   ['fx-door-creak','Creaking door'],['fx-rusty-door','Rusty metal door'],['fx-footsteps','Footsteps on old boards',1],['fx-chains','Rattling chains'],['fx-ghost-wind','Ghostly wind',1],['fx-well','Drip in the well'],['fx-howl','Wolf howl'],['fx-monster','Growling monster'],['fx-banshee','Banshee scream']]},
  {id:'industrial',name:'Industrial Loops',c:'#a6acaf',d:'Factories, furnaces and machines that keep running until you tap them again. The two metal grooves loop in perfect time.',p:[
   ['ind-factory','Factory floor',1,{gain:.55}],['ind-boiler','Boiler room',1,{gain:.6}],['ind-furnace','Furnace',1,{gain:.6}],['ind-construction','Construction site',1,{gain:.6}],['ind-jet','Jet engine',1,{gain:.6}],['ind-reactor','Reactor hum',1,{gain:.6}],['ind-clanks','Metal clank groove',2,{end:15.4839}],['ind-fence','Banging fence groove',2,{end:14.1176}]]},
@@ -157,12 +157,12 @@ window.__fx={playing:playing,loops:loops,stopOne:stopOne,stopAll:stopAll};
 </script>
 <style>
 .grp{position:relative}
-.gstop{position:absolute;top:12px;right:12px;z-index:2;display:inline-flex;align-items:center;gap:6px;min-height:34px;padding:0 14px;border-radius:999px;border:2px solid #ff1f4b;background:rgba(255,31,75,.12);color:#ff5a76;font:700 13px 'IBM Plex Mono',monospace;letter-spacing:.1em;cursor:pointer}
-.gstop:hover{background:#ff1f4b;color:#fff}
-.gstop.live{background:#ff1f4b;color:#fff;box-shadow:0 0 10px #ff1f4b,0 0 24px rgba(255,31,75,.7)}
-.fstop{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);z-index:1980;min-height:52px;padding:0 26px;border-radius:999px;border:3px solid #fff;background:#ff1f4b;color:#fff;font:800 17px 'IBM Plex Mono',monospace;letter-spacing:.12em;cursor:pointer;box-shadow:0 6px 24px rgba(0,0,0,.6);opacity:.55;transition:opacity .2s,box-shadow .2s}
-.fstop.live{opacity:1;box-shadow:0 0 14px #ff1f4b,0 0 36px #ff1f4b,0 6px 24px rgba(0,0,0,.6);animation:fsp 1s ease-in-out infinite alternate}
-@keyframes fsp{to{box-shadow:0 0 22px #ff1f4b,0 0 54px #ff1f4b,0 6px 24px rgba(0,0,0,.6)}}
+.gstop{position:absolute;top:12px;right:12px;z-index:2;display:inline-flex;align-items:center;gap:6px;min-height:34px;padding:0 14px;border-radius:999px;border:2px solid #a4a198;background:rgba(164,161,152,.12);color:#b1afa8;font:700 13px 'IBM Plex Mono',monospace;letter-spacing:.1em;cursor:pointer}
+.gstop:hover{background:#a4a198;color:#fff}
+.gstop.live{background:#a4a198;color:#fff;box-shadow:0 0 10px #a4a198,0 0 24px rgba(164,161,152,.7)}
+.fstop{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);z-index:1980;min-height:52px;padding:0 26px;border-radius:999px;border:3px solid #fff;background:#a4a198;color:#fff;font:800 17px 'IBM Plex Mono',monospace;letter-spacing:.12em;cursor:pointer;box-shadow:0 6px 24px rgba(0,0,0,.6);opacity:.55;transition:opacity .2s,box-shadow .2s}
+.fstop.live{opacity:1;box-shadow:0 0 14px #a4a198,0 0 36px #a4a198,0 6px 24px rgba(0,0,0,.6);animation:fsp 1s ease-in-out infinite alternate}
+@keyframes fsp{to{box-shadow:0 0 22px #a4a198,0 0 54px #a4a198,0 6px 24px rgba(0,0,0,.6)}}
 @media(max-width:600px){.fstop{bottom:96px;min-height:46px;font-size:15px}.gstop{top:10px;right:10px}}
 @media (prefers-reduced-motion:reduce){.fstop.live{animation:none}}
 </style>

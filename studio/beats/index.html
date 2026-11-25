@@ -36,7 +36,7 @@ h2{font-family:'Bebas Neue',Impact,sans-serif;font-weight:400;font-size:30px;let
 .btn:hover{background:rgba(255,211,92,.12)}
 .btn.on{background:var(--gold);color:#0a0a0a}
 .play{min-width:108px;background:var(--gold);color:#0a0a0a;font-weight:600;border:0}
-.play.playing{background:#c0392b;color:#fff}
+.play.playing{background:#a4a198;color:#fff}
 .ctl{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--muted)}
 .ctl input[type=range]{accent-color:var(--gold);width:110px}
 .ctl b{color:var(--ink);font-family:'IBM Plex Mono',monospace;font-weight:600;min-width:3ch;display:inline-block}
@@ -52,7 +52,7 @@ select{background:#161616;color:var(--ink);border:1px solid var(--line);border-r
 .name{min-height:40px;border-radius:8px;border:1px solid var(--line);background:#181818;color:var(--ink);font:inherit;font-size:14px;text-align:left;padding:0 10px;cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .name:hover{border-color:var(--c)}
 .mute{min-height:40px;border-radius:8px;border:1px solid var(--line);background:#181818;color:var(--muted);font:600 12px 'IBM Plex Mono',monospace;cursor:pointer;padding:0}
-.mute[aria-pressed="true"]{background:#c0392b;color:#fff;border-color:#c0392b}
+.mute[aria-pressed="true"]{background:#a4a198;color:#fff;border-color:#a4a198}
 .row.muted .cell{opacity:.35}
 .cell{position:relative;min-height:40px;border-radius:6px;border:1px solid #333;background:#1c1c1c;cursor:pointer;padding:0;color:#0a0a0a;font:600 11px 'IBM Plex Mono',monospace}
 .cell.q{background:#262626}
@@ -122,7 +122,7 @@ var KITS={
   ['rim','Rim',S+'hh-rim','#d4ac0d'],
   ['hat','Hi-hat',S+'hh-hat','#58d68d','h'],
   ['open','Open hat',S+'hh-open','#2ecc71','h'],
-  ['bass','808',S+'hh-808','#e74c3c','b',0]],
+  ['bass','808',S+'hh-808','#a4a198','b',0]],
   presets:{
    'Boom bap':{bpm:90,sw:28,key:0,g:{kick:'1000000100100000',snare:'0000100000001000',hat:'1010101010101010',open:'0000000000000010',rim:'0000000000000100'}},
    'Trap':{bpm:140,sw:0,key:5,g:{kick:'1000000100100000',clap:'0000000010000000',snare:'0000000010000000',hat:'1111113111111141',open:'0000000000100000',bass:'1000000500100000'}},
@@ -138,8 +138,8 @@ var KITS={
   ['open','Open hat',S+'el-open','#1abc9c','h'],
   ['perc','Perc',S+'el-perc','#f5b041'],
   ['crash','Crash',S+'el-crash','#f7dc6f'],
-  ['bass','Synth bass',S+'el-bass','#ec7063','b',0],
-  ['acid','Acid line',S+'el-acid','#e74c3c','a',-6]],
+  ['bass','Synth bass',S+'el-bass','#adaaa2','b',0],
+  ['acid','Acid line',S+'el-acid','#a4a198','a',-6]],
   presets:{
    'House':{bpm:124,sw:10,key:0,g:{kick:'1000100010001000',clap:'0000100000001000',hat:'1010101010101010',open:'0010001000100010',bass:'0010001000100110',crash:'1000000000000000'}},
    'Techno':{bpm:132,sw:0,key:9,g:{kick:'1000100010001000',open:'0010001000100010',perc:'0001000000010010',clap:'0000000000001000',acid:'1011011010110101'}},
