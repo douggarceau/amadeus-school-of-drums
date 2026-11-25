@@ -34,7 +34,7 @@ var PAGES={
 var STOUR=['/studio/','/studio/fx/','/studio/hart/','/studio/beats/','/level7.html','/grooves/','/drumroom/','/shop/','/ontour/','/vintage/'];
 
 /* ---------- voice ---------- */
-var muted=false;try{muted=localStorage.getItem('amadeusMute')==='1';}catch(e){}
+var muted=true;try{muted=localStorage.getItem('amadeusMute')!=='0';}catch(e){}
 var voice=null,spoken=false;
 function pickVoice(){if(!('speechSynthesis' in window))return;var v=speechSynthesis.getVoices();if(!v.length)return;
  var pref=[/Google UK English Male/i,/Daniel/i,/Microsoft (Ryan|George|Thomas|Oliver).*Natural/i,/Microsoft (Ryan|George|Thomas|Oliver)/i,/Arthur/i,/Oliver/i,/en[-_]GB/i,/^en/i];
