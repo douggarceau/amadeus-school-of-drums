@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:54Z",
+ "updated": "2026-11-25T16:26Z",
  "items": [
   {
    "title": "Berlin company launches AI kick drum generator trained on its own audio dataset \u00b7 News \u27cb RA",
@@ -18,9 +18,17 @@
    "release": false
   },
   {
-   "title": "\u201c300 nerds with Claude are going to outcompete any synth manufacturer on the market\u201d: The AI revolution is coming for your electronic instruments",
+   "title": "The AI revolution is coming for your electronic instruments",
    "link": "https://www.musicradar.com/music-tech/300-nerds-with-claude-are-going-to-outcompete-any-synth-manufacturer-on-the-market-the-ai-revolution-is-coming-for-your-electronic-instruments",
    "source": "MusicRadar",
+   "date": "2026-11-25",
+   "kind": "PRODUCT",
+   "release": false
+  },
+  {
+   "title": "Musixmatch launches enhanced Pro for Artists platform, adding fan engagement analytics and lyric merch sales with \u2018optional AI licensing coming soon\u2019",
+   "link": "https://www.musicbusinessworldwide.com/musixmatch-launches-enhanced-pro-for-artists-platform-adding-fan-engagement-analytics-and-lyric-merch-sales-with-optional-ai-licensing-coming-soon/",
+   "source": "Music Business Worldwide",
    "date": "2026-11-25",
    "kind": "PRODUCT",
    "release": true
@@ -29,6 +37,14 @@
    "title": "Leap Into Void releases Artificial Intelligence soundset for UVI Falcon",
    "link": "https://rekkerd.org/leap-into-void-releases-artificial-intelligence-soundset-for-uvi-falcon/",
    "source": "Rekkerd",
+   "date": "2026-11-25",
+   "kind": "PRODUCT",
+   "release": true
+  },
+  {
+   "title": "Marketing veteran Gary Vaynerchuk launches AI \u2018personal avatar\u2019",
+   "link": "https://musically.com/2026/11/25/marketing-veteran-gary-vaynerchuk-launches-ai-personal-avatar/",
+   "source": "Music Ally",
    "date": "2026-11-25",
    "kind": "PRODUCT",
    "release": true
@@ -58,6 +74,30 @@
    "release": true
   },
   {
+   "title": "Deezer to launch AI music filter as survey finds user demand for transparency",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdkRweXczQ0kxZkJMSEZPSGE1cElXRTdyZENySGxja2RkWG5oRWFiNGRjaG5EUHZNYlNJNEhLVFV3T1FEbEw4OVlhT3R0RGNqZDJRb0tsWUtERmlRMXItTjZrNVFyWXBkeFh2b2lTUDdoN3kyUEVqeVh3M2tDQ2FUaG1TaVVRdWVwNC1VeEhaNDRGSS1VQ3VjMUU0YU1KRXN5YUEtcHdOVWtOX3pScWdKeVlwYlI1MkpBa0lvM2RrQ3Znd1pM?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-17",
+   "kind": "PRODUCT",
+   "release": true
+  },
+  {
+   "title": "80% of people want AI music labeled, says Deezer/Ipsos survey \u2013 as 37% of Americans now see AI as a \u2018valuable tool\u2019 for musicians, down from 54% in 2025",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSS0yZ1JBa01DRUhTWDBIUV8tOC1jcVJaS2cxN2ZrZENhbkEwNW1CQmdLNzltcG5sSTFMQWhUQk1vcU53dnlqLXczeFo0NnFRVnVVVjltbHdLdFZmMDZCcW1LUEtyRlAwWTlQTkowR01xSnNSeVUweXBnZUZTMUxKUkJfYWd1Yms2Yjh1czV5ak9JRUhYT0gyS2luSW1UQ2Mwa2RkbU51c0NZY1llbmJDWWZrY1Q2RDJ0RDJGTWJxMWpGUTR1YzYwS1VJX0RfdDRMMWQ5ZXhfTy1vYTVzU0lBcnMtQ0h4SlVoUXJnRWtPb2ttdmVIRHoyRFJsQ3lNdTk4VFUxbnRrUWtBV1p5RG1MSg?oc=5",
+   "source": "Music Business Worldwide",
+   "date": "2026-11-17",
+   "kind": "PRODUCT",
+   "release": false
+  },
+  {
+   "title": "Suno Launches \u2018Visuals\u2019 for Music Video Creation, Potentially Drawing Major Hollywood Studio Litigation",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qSFJFM3lrOUZxbm9sV0NBdUttNTRPRUQtQ2R4Nkk0NlZjSm1fdnlNQ3FHRXI4VFNQXy1nM09TSHdLeEwtb3JKU3FjMGV0aUVzSGFGRU9oSjFfSjk0cExjU1JtZWZQUzliYkFfNFdLdGJWQQ?oc=5",
+   "source": "Digital Music News",
+   "date": "2026-11-17",
+   "kind": "PRODUCT",
+   "release": true
+  },
+  {
    "title": "iZotope launches AI-powered stem separation and audio enhancement plug-in, Photon",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONF9BbXdjeVBoS2ZpcWVCYXNkV1UxeDFOdGhYeE9uZ3AwMWRkZmlsa3g3TEMxTmFxTlM1X0U2UkZuU0FuNXFpZFJoMjBmZU1aSkdrZl90cmlkUmdyelNmTE9qQXBwOUdmU2hXaFVJMExDZlhjQlJwY05jWG1EWm03UzM0MXhiOWE2VkVPX1Rhdld4NzEtc3ZTRmkybFktb0lIZkE?oc=5",
    "source": "DJ Mag",
@@ -66,9 +106,9 @@
    "release": true
   },
   {
-   "title": "Suno Bridge takes AI music to DAWs \u2013 starting with Ableton Live",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWS1rRkZxbWt0TjBzT3pKQkd3QV9ueUhiMFZ2WXZ5ZlN0RGxBejdlWmg1TWtMZWItWUFDZG1mVmd3Y25BcTdkeGdNYXNOYkJMTUJxby0xQ19nTmFsWDdZOEdPcDhVbnRIdmIyNGxOQlhtZXVvdGl4YTdHZE5EUl9nTF94VHQxdzEybUN2dnlhcU1naGF4OGI1cE5kWQ?oc=5",
-   "source": "Music Ally",
+   "title": "Suno's 'Bridge' Promises DAW Integrations with Ableton On Board",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzdOVndjcTFKYV90a1l1TkY3OFMzYUZlclF4d19iM0VGMEYzNFhUMjUyNGdGenhfWTg5TklpNVNHYzVUcWM1T2ZrbDhjeUlEMUF6ajJRTWdTOVFJaFRQOUdBRndXaXQ4VVNrYkMtbGZCeWRxX0xLUlNGd3FuVzlfWkVLS2dfaXU1?oc=5",
+   "source": "Digital Music News",
    "date": "2026-11-16",
    "kind": "PRODUCT",
    "release": false
@@ -90,17 +130,17 @@
    "release": true
   },
   {
-   "title": "Suno launches MCP server to \u2018create music right from the chat\u2019",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR25sNEJJMVZtb25HdG1iUWFNdnBjQVMxSHg5Z0V4RktMOVh4VFEwSHp4YWZ6Z3ppVEY2NW9wbzBJTjB3MEtVbFNoaXpGSGx6WmtWb0NNX1F2MUhrQkVSMVM5N3Nnb3dxSVd3MkZ2ZFhWcGE5RXdFaUk4bDk0bF9JQTUxZEIxQXRGMTJVekxTN180MUhfblhNMWFn?oc=5",
-   "source": "Music Ally",
-   "date": "2026-10-29",
-   "kind": "PRODUCT",
-   "release": true
-  },
-  {
    "title": "Tidal is banning all 'entirely' AI-generated tracks - that's 27 million, and counting",
    "link": "https://www.musicradar.com/music-industry/streaming-sharing/tidal-is-banning-all-entirely-ai-generated-tracks-thats-27-million-and-counting",
    "source": "MusicRadar",
+   "date": "2026-11-25",
+   "kind": "NEWS",
+   "release": false
+  },
+  {
+   "title": "With friends like these: Suno and MiniMax team up",
+   "link": "https://www.musicbusinessworldwide.com/with-friends-like-these-suno-and-minimax-team-up/",
+   "source": "Music Business Worldwide",
    "date": "2026-11-25",
    "kind": "NEWS",
    "release": false
@@ -114,18 +154,18 @@
    "release": false
   },
   {
-   "title": "AI music banned on TIDAL as they delete 29million songs",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3VEUWlQMjE0WEthVUNPNUhVT0tidF9QQV9EYXYyd1libklVNjhnZV9NM0FfUUU1WktzQUxJY2pfSnhpTkpyNTRZaldMWV9RMXRMcHo2NkladjJkMHd4QnRSQ3RsSmMzSGV6OG0xTVlsUXRMSnVtLVlyRTktUXhON1pVLWJ2VHFBVnNjekxBSTYwOXdWdVk0SzFR?oc=5",
-   "source": "NME",
+   "title": "The Chicks & Willie Col\u00f3n Join AI Music Lawsuit Against Suno: \u2018Misappropriated Identities\u2019",
+   "link": "https://www.billboard.com/pro/the-chicks-willie-colon-join-ai-music-lawsuit-against-suno/",
+   "source": "Billboard",
    "date": "2026-11-25",
    "kind": "PROBLEM",
    "release": false
   },
   {
-   "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
-   "link": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
-   "source": "Music Business Worldwide",
-   "date": "2026-11-24",
+   "title": "AI music banned on TIDAL as they delete 29million songs",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3VEUWlQMjE0WEthVUNPNUhVT0tidF9QQV9EYXYyd1libklVNjhnZV9NM0FfUUU1WktzQUxJY2pfSnhpTkpyNTRZaldMWV9RMXRMcHo2NkladjJkMHd4QnRSQ3RsSmMzSGV6OG0xTVlsUXRMSnVtLVlyRTktUXhON1pVLWJ2VHFBVnNjekxBSTYwOXdWdVk0SzFR?oc=5",
+   "source": "NME",
+   "date": "2026-11-25",
    "kind": "PROBLEM",
    "release": false
   },
@@ -152,53 +192,13 @@
    "date": "2026-11-24",
    "kind": "PROBLEM",
    "release": true
-  },
-  {
-   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kTUhxOFMzQW5OWGtuMGo2TlZwLVNFT2dXWUp6QmI4cVNiZGt3NmFfajA4anVTV3RwVnE2bmpsWFZzbTFPR1VKMHBnZW9pMkZ0ZVk4YllrS2RNeWVhN19RRkdnU0hoUHVKNzlaam5na0FzQQ?oc=5",
-   "source": "The Verge",
-   "date": "2026-11-22",
-   "kind": "NEWS",
-   "release": false
-  },
-  {
-   "title": "Peter Gabriel makes his stance on AI clear",
-   "link": "https://www.musicradar.com/artists/singers-songwriters/if-you-cant-defeat-it-you-have-to-join-it-peter-gabriel-makes-his-stance-on-ai-clear",
-   "source": "MusicRadar",
-   "date": "2026-11-20",
-   "kind": "NEWS",
-   "release": false
-  },
-  {
-   "title": "More Than 80% of Americans Want an AI Music \u2018Kill Switch,\u2019 UMG Research Finds",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RY25UYlpNa1IydW9vcWhyUnV3OWhRZDR2NkY0R2ZhYy1Fdmd3UjlTS0phd1hETjNjYkpScVZ6OHk3Y052ZXItU003SmtGMVpoSkc5YXotaEJ3TDhPck1zQWc0NnJRbXB6SUVqWHQxeEpUTzN4MHhUSmt0S18?oc=5",
-   "source": "Digital Music News",
-   "date": "2026-11-20",
-   "kind": "NEWS",
-   "release": false
-  },
-  {
-   "title": "Universal Music Group Defends Its 'Walled Garden' AI Strategy",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaeE5BdnQ3WE1mREdYMFFWaWk0dmFsZl9PeXpEMklqNDlZa0w4S3BDRmQ4OTlZNlUwSU1McERrM2VWbm1ySjU1bmJUd0d4b2JQeTVsamUzUVRnNXZpdzRLRGZDaDZHNEJVQS1DSFZ6blNJTmlsQVJhQVJKLS0?oc=5",
-   "source": "Digital Music News",
-   "date": "2026-11-20",
-   "kind": "NEWS",
-   "release": false
-  },
-  {
-   "title": "Australian music industry rejects \u2018divide and conquer\u2019 proposal to give musicians exemption from AI scraping",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRDNMLUN5M3NYNnRvR0k0cVY2WGpVQWtuZm43NmlSU0tVYkxTLTU5QlVRSzJGYk1WWm1ZbHlvelh0UjZyZkZ2RUZTYkFaTFYyY0NrMmtYMnRiYjh4TlNKSV80Q3hhR2Q5LW5udkMyUDFfNHoxYzdTWlFnZFdiQTZ1eFhaYWVLU1ZFTkRfUWxDdTdGM3hySXhHUWZDNVVDdWZQRW1NMGJIa0Q3YURDU2JYWUVPaTk0NzNjdHhtZUx1ZTIxQlkzZXgyYWpUUFJ4OGEydUZr?oc=5",
-   "source": "The Guardian",
-   "date": "2026-11-19",
-   "kind": "NEWS",
-   "release": false
   }
  ],
  "releases": [
   {
-   "title": "\u201c300 nerds with Claude are going to outcompete any synth manufacturer on the market\u201d: The AI revolution is coming for your electronic instruments",
-   "link": "https://www.musicradar.com/music-tech/300-nerds-with-claude-are-going-to-outcompete-any-synth-manufacturer-on-the-market-the-ai-revolution-is-coming-for-your-electronic-instruments",
-   "source": "MusicRadar",
+   "title": "Musixmatch launches enhanced Pro for Artists platform, adding fan engagement analytics and lyric merch sales with \u2018optional AI licensing coming soon\u2019",
+   "link": "https://www.musicbusinessworldwide.com/musixmatch-launches-enhanced-pro-for-artists-platform-adding-fan-engagement-analytics-and-lyric-merch-sales-with-optional-ai-licensing-coming-soon/",
+   "source": "Music Business Worldwide",
    "date": "2026-11-25",
    "kind": "PRODUCT",
    "release": true
@@ -207,6 +207,14 @@
    "title": "Leap Into Void releases Artificial Intelligence soundset for UVI Falcon",
    "link": "https://rekkerd.org/leap-into-void-releases-artificial-intelligence-soundset-for-uvi-falcon/",
    "source": "Rekkerd",
+   "date": "2026-11-25",
+   "kind": "PRODUCT",
+   "release": true
+  },
+  {
+   "title": "Marketing veteran Gary Vaynerchuk launches AI \u2018personal avatar\u2019",
+   "link": "https://musically.com/2026/11/25/marketing-veteran-gary-vaynerchuk-launches-ai-personal-avatar/",
+   "source": "Music Ally",
    "date": "2026-11-25",
    "kind": "PRODUCT",
    "release": true
@@ -244,19 +252,11 @@
    "release": true
   },
   {
-   "title": "iZotope launches AI-powered stem separation and audio enhancement plug-in, Photon",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONF9BbXdjeVBoS2ZpcWVCYXNkV1UxeDFOdGhYeE9uZ3AwMWRkZmlsa3g3TEMxTmFxTlM1X0U2UkZuU0FuNXFpZFJoMjBmZU1aSkdrZl90cmlkUmdyelNmTE9qQXBwOUdmU2hXaFVJMExDZlhjQlJwY05jWG1EWm03UzM0MXhiOWE2VkVPX1Rhdld4NzEtc3ZTRmkybFktb0lIZkE?oc=5",
-   "source": "DJ Mag",
+   "title": "Deezer to launch AI music filter as survey finds user demand for transparency",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdkRweXczQ0kxZkJMSEZPSGE1cElXRTdyZENySGxja2RkWG5oRWFiNGRjaG5EUHZNYlNJNEhLVFV3T1FEbEw4OVlhT3R0RGNqZDJRb0tsWUtERmlRMXItTjZrNVFyWXBkeFh2b2lTUDdoN3kyUEVqeVh3M2tDQ2FUaG1TaVVRdWVwNC1VeEhaNDRGSS1VQ3VjMUU0YU1KRXN5YUEtcHdOVWtOX3pScWdKeVlwYlI1MkpBa0lvM2RrQ3Znd1pM?oc=5",
+   "source": "Reuters",
    "date": "2026-11-17",
    "kind": "PRODUCT",
-   "release": true
-  },
-  {
-   "title": "Suno launches AI music video tool built on model from MiniMax \u2013 the Chinese AI firm being sued by Disney and other Hollywood studios",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUlZDVGtRcmIxb0c5b0llVEFVUFB2ajVnVmowTjNuMGF2WWlkUXdKdTA3TUlpNldvTzEtVUt3YUY3RUFLRDl2RHJmSk96V3hCZkRBX2QyR2dVcGlsT1UzTHRIX2E5RGJSdmh2b2EtYl9kdktqeDU2clluUFAxbzhZVFFqNWRnekY1ZUx2YXJiNklNWkctNVRsTHllMnNJdWUzbEZkSGRWNmg2d2FPNm5sN1JUbWZSNkJPaHV4WkhBQUgyVzdIRzhPNlZJeDlMbzc4RGN3aGd1VmJRXzNaTkRneGVRT1NWVWYzTzNsRlN3d29aRkJuQi1sMTFpT2NZMXM?oc=5",
-   "source": "Music Business Worldwide",
-   "date": "2026-11-17",
-   "kind": "PROBLEM",
    "release": true
   }
  ],
@@ -268,10 +268,10 @@
   "Gearnews www.gearnews.com": 0,
   "MusicTech musictech.com": 0,
   "Rekkerd rekkerd.org": 1,
-  "Music Ally musically.com": 3,
+  "Music Ally musically.com": 4,
   "Hypebot www.hypebot.com/feed/": "error: HTTP Error 404: Not Found",
   "Attack Magazine www.attackmagazine.com": 0,
-  "Billboard www.billboard.com": 0,
+  "Billboard www.billboard.com": 1,
   "Modern Drummer www.moderndrummer.com": 0,
   "Drumming News Network drummingnewsnetwork.com": 1,
   "The Verge www.theverge.com": 1,
@@ -279,12 +279,12 @@
   "Ars Technica feeds.arstechnica.com": 0,
   "Google News %22AI%22+drums": 2,
   "Google News %22AI%22+drummer": 0,
-  "Google News %22AI+music%22": 38,
-  "Google News Suno+OR+Udio": 17,
-  "Google News %22AI%22+music+lawsuit+OR+copyright": 17,
-  "Google News %22AI%22+music+producer+plugin": 2,
-  "Google News %22AI%22+drum+plugin+OR+%22drum+machine%22": 2,
-  "Google News %22AI%22+stem+separation": 3,
+  "Google News %22AI+music%22": 40,
+  "Google News Suno+OR+Udio": 22,
+  "Google News %22AI%22+music+lawsuit+OR+copyright": 18,
+  "Google News %22AI%22+music+producer+plugin": 0,
+  "Google News %22AI%22+drum+plugin+OR+%22drum+machine%22": 4,
+  "Google News %22AI%22+stem+separation": 2,
   "Google News %22AI%22+DAW+OR+%22Logic+Pro%22+OR+Ableton+OR+%22FL+Studio%22": 7,
   "Google News %22AI%22+MIDI+generator+OR+%22session+drummer%22": 0
  }
