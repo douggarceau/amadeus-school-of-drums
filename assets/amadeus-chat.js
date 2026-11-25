@@ -13,6 +13,7 @@
   var css = '' +
     '.amc-fab{position:fixed;right:16px;bottom:16px;z-index:1995;display:flex;align-items:center;gap:8px;border:0;border-radius:999px;padding:11px 16px 11px 13px;background:#c8102e;color:#050606;font:700 15px "IBM Plex Sans",system-ui,sans-serif;box-shadow:0 8px 24px rgba(0,0,0,.55),0 0 0 2px #050606;cursor:pointer}' +
     '.amc-fab:hover{filter:brightness(1.08)}.amg .amc-fab{position:static;align-self:flex-end;margin-right:6px}.amc-fab svg{width:20px;height:20px}' +
+    '.amc.fresh{height:auto!important}.amc.fresh .amc-l{display:none}.amc-f textarea::placeholder{color:#8a8a85}' +
     '.amc{position:fixed;right:16px;bottom:16px;z-index:1996;width:min(400px,calc(100vw - 32px));height:min(600px,calc(100dvh - 32px));display:flex;flex-direction:column;background:#101316;color:#f5f3ed;border:1px solid #2a2d31;border-radius:16px;box-shadow:0 18px 50px rgba(0,0,0,.7);font:15.5px/1.5 "IBM Plex Sans",system-ui,sans-serif;overflow:hidden}' +
     '.amc[hidden]{display:none}' +
     '.amc-h{display:flex;align-items:center;gap:10px;padding:12px 14px;border-bottom:1px solid #2a2d31;background:#050606}' +
@@ -77,20 +78,14 @@
   }
   function render() {
     list.innerHTML = '';
-    add('assistant', "Hi, I'm Amadeus. Ask me anything about drumming, practice, gear, or where to find something on the site.");
     msgs.forEach(function (m) { add(m.role, m.content); });
     sug.innerHTML = '';
-    if (!msgs.length) {
-      ['Where should a beginner start?', 'How do I practice paradiddles?', 'What snare for jazz?', 'What is a time feel?'].forEach(function (q) {
-        var b = document.createElement('button'); b.type = 'button'; b.textContent = q;
-        b.onclick = function () { ask(q); }; sug.appendChild(b);
-      });
-    }
+    box.classList.toggle('fresh', !msgs.length);
   }
 
   function ask(q) {
     q = (q || '').trim(); if (!q || busy) return;
-    busy = true; send.disabled = true; sug.innerHTML = '';
+    busy = true; send.disabled = true; sug.innerHTML = ''; box.classList.remove('fresh');
     msgs.push({ role: 'user', content: q }); save(); add('user', q);
     ta.value = ''; ta.style.height = '';
     var wait = add('assistant', ''); wait.innerHTML = '<span class="amc-dots"><span></span><span></span><span></span></span>';
