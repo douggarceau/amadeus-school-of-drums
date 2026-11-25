@@ -34,7 +34,7 @@ var PAGES={
 var STOUR=['/studio/','/studio/fx/','/studio/hart/','/studio/beats/','/level7.html','/grooves/','/drumroom/','/shop/','/ontour/','/vintage/'];
 
 /* ---------- voice ---------- */
-var muted=true;try{muted=localStorage.getItem('amadeusMute')!=='0';}catch(e){}
+var muted=true;try{muted=localStorage.getItem('amadeusVoiceOn')!=='1';}catch(e){}
 var voice=null,spoken=false;
 function pickVoice(){if(!('speechSynthesis' in window))return;var v=speechSynthesis.getVoices();if(!v.length)return;
  var pref=[/Google UK English Male/i,/Daniel/i,/Microsoft (Ryan|George|Thomas|Oliver).*Natural/i,/Microsoft (Ryan|George|Thomas|Oliver)/i,/Arthur/i,/Oliver/i,/en[-_]GB/i,/^en/i];
@@ -47,7 +47,7 @@ function speak(text){if(!('speechSynthesis' in window)||muted||!text)return fals
   u.onstart=function(){spoken=true;talking(true);};
   u.onend=u.onerror=function(){talking(false);};speechSynthesis.speak(u);return true;}catch(e){return false;}}
 function stop(){if('speechSynthesis' in window)speechSynthesis.cancel();talking(false);}
-function setMute(m){muted=m;try{localStorage.setItem('amadeusMute',m?'1':'0');}catch(e){}if(m)stop();
+function setMute(m){muted=m;try{localStorage.setItem('amadeusVoiceOn',m?'0':'1');}catch(e){}if(m)stop();
  document.querySelectorAll('[data-amute]').forEach(function(b){if(!b.querySelector('[data-snd]'))b.innerHTML='<b class="amg-sl">SOUND</b><button type="button" data-snd="on" aria-label="Sound on">ON</button><button type="button" data-snd="off" aria-label="Sound off">OFF</button>';b.querySelector('[data-snd=on]').setAttribute('aria-pressed',m?'false':'true');b.querySelector('[data-snd=off]').setAttribute('aria-pressed',m?'true':'false');b.classList.toggle('is-off',m);});}
 window.amadeusSpeak=function(t){return speak(t);};window.amadeusMute=setMute;
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',function(){setMute(muted);});else setMute(muted);
