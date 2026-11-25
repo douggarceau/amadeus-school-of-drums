@@ -7,23 +7,13 @@
     ['/studio/fx/', 'Hollywood movie sound FX'],
     ['/studio/beats/', 'Drum machine: hip-hop, trap, electronic and acoustic kits'],
     ['/studio/fx/#industrial', 'Industrial loops and metal hits'],
-    ['/ontour/', 'On Tour: who is behind the kit for 50 currently touring acts'],
+    ['/ontour/', 'On Tour: who is behind the drum set for 50 currently touring acts'],
     ['/vintage/', '10 of America\'s best vintage drum shops'],
     ['/drumroom/', 'The Drum Room: 59 percussion instruments'],
-    ['/level7.html', 'Plug in your e-kit or MIDI pads and play The Kit'],
-    ['/grooves/', '263 grooves to play along with'],
-    ['/shop/', 'Gear Shop: drums, cymbals, heads and sticks']
+    ['/level7.html', 'Plug in your electronic drum set or MIDI pads and play The Drum Set'],
+    ['/grooves/', '263 grooves to play along with']
   ];
   var BOX = []; var BOX_OFF = [
-    ['/shop/#drumsets', 'IN OUR GEAR SHOP', 'DRUM SETS', 'DW Drums', 'Pro drum sets, explained', 'SEE THEM', '#e6e2d8'],
-    ['/shop/#cymbals', 'IN OUR GEAR SHOP', 'CYMBALS', 'Zildjian Cymbals', 'Crashes, rides, hats and more', 'SEE THEM', '#e6b450'],
-    ['/shop/#hardware', 'IN OUR GEAR SHOP', 'DRUMHEADS', 'Evans Drumheads', 'The right head for your sound', 'SEE THEM', '#5dade2'],
-    ['/shop/#sticks', 'IN OUR GEAR SHOP', 'STICKS', 'Vic Firth Sticks', 'Sticks, brushes and mallets', 'SEE THEM', '#e67e22'],
-    ['/shop/#drumsets', 'IN OUR GEAR SHOP', 'DRUM SETS', 'Ludwig Drums', 'Classic kits and snares', 'SEE THEM', '#a4a198'],
-    ['/shop/#hardware', 'IN OUR GEAR SHOP', 'DRUMHEADS', 'Remo Drumheads', 'Heads for every drum', 'SEE THEM', '#a6acaf'],
-    ['/shop/#cymbals', 'IN OUR GEAR SHOP', 'CYMBALS', 'Paiste Cymbals', 'Bright, musical cymbals', 'SEE THEM', '#e6e2d8'],
-    ['/shop/#electronic', 'IN OUR GEAR SHOP', 'ELECTRONIC DRUMS', 'Roland V-Drums', 'Electronic kits and pads', 'SEE THEM', '#9477ff'],
-    ['/shop/#percussion', 'IN OUR GEAR SHOP', 'PERCUSSION', 'LP Percussion', 'Congas, bongos, shakers and more', 'SEE THEM', '#58d68d'],
     ['/advertise/', 'ADVERTISE', 'YOUR BRAND HERE', 'Your Drum Shop Here', 'Put your brand in front of drummers', 'GET IN TOUCH', '#a4a198']
   ];
   function esc(t) { return String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;'); }
