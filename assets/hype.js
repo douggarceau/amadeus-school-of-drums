@@ -14,7 +14,7 @@
     ['/grooves/', '263 grooves to play along with'],
     ['/shop/', 'Gear Shop: drums, cymbals, heads and sticks']
   ];
-  var BOX = [
+  var BOX = []; var BOX_OFF = [
     ['/shop/#drumsets', 'IN OUR GEAR SHOP', 'DRUM SETS', 'DW Drums', 'Pro drum sets, explained', 'SEE THEM', '#e6e2d8'],
     ['/shop/#cymbals', 'IN OUR GEAR SHOP', 'CYMBALS', 'Zildjian Cymbals', 'Crashes, rides, hats and more', 'SEE THEM', '#e6b450'],
     ['/shop/#hardware', 'IN OUR GEAR SHOP', 'DRUMHEADS', 'Evans Drumheads', 'The right head for your sound', 'SEE THEM', '#5dade2'],
@@ -34,7 +34,7 @@
     + '.hy-tick:hover .hy-track,.hy-tick:focus-within .hy-track{animation-play-state:paused}'
     + '.hy-run{display:flex;white-space:nowrap}.hy-run a{color:#0a0a0a!important;text-decoration:none;padding:0 15px}.hy-run a:hover{text-decoration:underline}.hy-run i{font-style:normal;opacity:.55}'
     + '@keyframes hysc{to{transform:translateX(-50%)}}@keyframes hyfl{0%{background:#a4a198}50%{background:#a4a198}}'
-    + '.hy-box{position:fixed;left:16px;bottom:16px;z-index:900;width:250px;display:grid}'
+    + '.hy-box{display:none!important}'
     + '.hy-box a{grid-area:1/1;display:flex;flex-direction:column;padding:12px 16px;border-radius:12px;border:2px solid var(--c);text-decoration:none!important;color:#fff!important;background:radial-gradient(ellipse at 15% 30%,color-mix(in srgb,var(--c) 45%,transparent),transparent 60%),#15130f;opacity:0;visibility:hidden;transition:opacity .6s,visibility .6s;animation:hygl 1.2s ease-in-out infinite;font-family:"IBM Plex Sans",system-ui,sans-serif}'
     + '.hy-box a.on{opacity:1;visibility:visible}.hy-box a.on .hy-h{animation:hypop .5s ease-out}'
     + '.hy-t{font:700 11px "IBM Plex Mono",ui-monospace,monospace;letter-spacing:.14em;color:#d8d4ca}.hy-t b{background:#a4a198;color:#fff;padding:2px 6px;border-radius:3px;margin-right:6px;animation:hyfl 1.1s steps(2,start) infinite}'
