@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:41Z",
+ "updated": "2026-11-26T04:24Z",
  "items": [
   {
    "title": "Berlin company launches AI kick drum generator trained on its own audio dataset \u00b7 News \u27cb RA",
@@ -8,6 +8,14 @@
    "date": "2026-11-11",
    "kind": "DRUMS",
    "release": true
+  },
+  {
+   "title": "Apple Logic Pro 13: Enhanced Drum Separation and a New AI Assistant",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81S1RtVTJCR2hxcl9QUDRnRldKMVZoeEFMNW8yQXJDMjltN09zck9iVFdRZHVDRkdJNjllSF9FakZCZmRzU2k2S2ZOZjgwZjBaNDdGZnBJN0VmTG9n?oc=5",
+   "source": "Gearnews.com",
+   "date": "2026-10-28",
+   "kind": "DRUMS",
+   "release": false
   },
   {
    "title": "The AI revolution is coming for your electronic instruments",
@@ -74,6 +82,14 @@
    "release": true
   },
   {
+   "title": "Suno Launches \u2018Visuals\u2019 for Music Video Creation, Potentially Drawing Major Hollywood Studio Litigation",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qSFJFM3lrOUZxbm9sV0NBdUttNTRPRUQtQ2R4Nkk0NlZjSm1fdnlNQ3FHRXI4VFNQXy1nM09TSHdLeEwtb3JKU3FjMGV0aUVzSGFGRU9oSjFfSjk0cExjU1JtZWZQUzliYkFfNFdLdGJWQQ?oc=5",
+   "source": "Digital Music News",
+   "date": "2026-11-17",
+   "kind": "PRODUCT",
+   "release": true
+  },
+  {
    "title": "iZotope launches AI-powered stem separation and audio enhancement plug-in, Photon",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONF9BbXdjeVBoS2ZpcWVCYXNkV1UxeDFOdGhYeE9uZ3AwMWRkZmlsa3g3TEMxTmFxTlM1X0U2UkZuU0FuNXFpZFJoMjBmZU1aSkdrZl90cmlkUmdyelNmTE9qQXBwOUdmU2hXaFVJMExDZlhjQlJwY05jWG1EWm03UzM0MXhiOWE2VkVPX1Rhdld4NzEtc3ZTRmkybFktb0lIZkE?oc=5",
    "source": "DJ Mag",
@@ -82,9 +98,9 @@
    "release": true
   },
   {
-   "title": "Suno Bridge takes AI music to DAWs \u2013 starting with Ableton Live",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWS1rRkZxbWt0TjBzT3pKQkd3QV9ueUhiMFZ2WXZ5ZlN0RGxBejdlWmg1TWtMZWItWUFDZG1mVmd3Y25BcTdkeGdNYXNOYkJMTUJxby0xQ19nTmFsWDdZOEdPcDhVbnRIdmIyNGxOQlhtZXVvdGl4YTdHZE5EUl9nTF94VHQxdzEybUN2dnlhcU1naGF4OGI1cE5kWQ?oc=5",
-   "source": "Music Ally",
+   "title": "Suno's 'Bridge' Promises DAW Integrations with Ableton On Board",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzdOVndjcTFKYV90a1l1TkY3OFMzYUZlclF4d19iM0VGMEYzNFhUMjUyNGdGenhfWTg5TklpNVNHYzVUcWM1T2ZrbDhjeUlEMUF6ajJRTWdTOVFJaFRQOUdBRndXaXQ4VVNrYkMtbGZCeWRxX0xLUlNGd3FuVzlfWkVLS2dfaXU1?oc=5",
+   "source": "Digital Music News",
    "date": "2026-11-16",
    "kind": "PRODUCT",
    "release": false
@@ -106,18 +122,10 @@
    "release": true
   },
   {
-   "title": "Suno launches MCP server to \u2018create music right from the chat\u2019",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR25sNEJJMVZtb25HdG1iUWFNdnBjQVMxSHg5Z0V4RktMOVh4VFEwSHp4YWZ6Z3ppVEY2NW9wbzBJTjB3MEtVbFNoaXpGSGx6WmtWb0NNX1F2MUhrQkVSMVM5N3Nnb3dxSVd3MkZ2ZFhWcGE5RXdFaUk4bDk0bF9JQTUxZEIxQXRGMTJVekxTN180MUhfblhNMWFn?oc=5",
-   "source": "Music Ally",
-   "date": "2026-10-29",
-   "kind": "PRODUCT",
-   "release": true
-  },
-  {
-   "title": "Apple goes all in on AI with Logic Pro 13, introducing an intelligent assistant that can control your DAW",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS0MwNmQ2V1VOekctdm5hclNxQ3Fwd2JrNzgtZkIzLTNTdC1wZWIxU3NLMVNlWXhiQ2pVcnhSNnRQTVlrLXU0UVZqeHBFZVg3NkduYUpQM0YzSXRfdERLbzRUY2NRQTBaV3BZMHBsd0NHRm9nZFF4NjlzRkdfbW1VbHlFN3FyVU1vZk9NSnBVVVdHZE93M0txMm1lZXpBVk5NZjJuX3pFemc5UlBCdHVQQ1FINGN6NWtTbHcyQmt0RGtPcWhnVExnbUZ3ZExNQ1J2ODk5SDdYSXV4QQ?oc=5",
-   "source": "MusicRadar",
-   "date": "2026-10-28",
+   "title": "Apple debuts new musically-inclined AI assistant for creators",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUNPTndtNHExby1NMGpGNUlhQlpmOGF2cFJxSlVrbHY3MTQyNThZMDIzVjd1OW41bExsYXVIaFNtXzhSaXNlUGJ5OGpIYlJxX25kZHh5ZU5rWTZuSzJRUFhqZktRN2I2LTZOdXlhd2RhTXFhQzlrVXVialJWY2NIaUY3bE4?oc=5",
+   "source": "Mashable",
+   "date": "2026-10-27",
    "kind": "PRODUCT",
    "release": true
   },
@@ -162,6 +170,14 @@
    "release": false
   },
   {
+   "title": "TIDAL bans AI-generated music",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFdk5JLTkzZVdCa3dXOHFQanJ1R0dwM3ljY2dQdWZkV3djQmZKUi1JLVU3eDFzZnR6bEwwSW5GYmdDSFVKcE92SFgyeFhfYUNyZ2xOenFCYXRTZ3NIVk1MeFNB?oc=5",
+   "source": "DJ Mag",
+   "date": "2026-11-25",
+   "kind": "PROBLEM",
+   "release": false
+  },
+  {
    "title": "Tidal Is the First Streaming Service to Ban AI Music",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmhYMnVFVFRfeW1QTmNnV19tdFhheGg1UkhuY3B5RFhkb3hoOENXcktwSGpJajlmelJ2RmRhWTZBTTdvWFNnb1FmT2MzVURET29ieVZZVm5uUjhRVnlfRU42cmQ1YkVBMzhKVHltMFBybUpuMEZwVjN0SjdRZkROWV8zUQ?oc=5",
    "source": "Rolling Stone",
@@ -175,22 +191,6 @@
    "source": "Hypebot",
    "date": "2026-11-24",
    "kind": "NEWS",
-   "release": false
-  },
-  {
-   "title": "\u2018Bye AI music\u2019: Tidal announces full ban on AI-generated songs \u2014 as Deezer reveals 57% of people have AI tunes lurking in their playlists",
-   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNR1VsXzFWdWpTQ3NfVzd5d1lKeVdOckhVNkpKU21OalJuQzgzVVd4RnRiR2JLRm1KQURHczFJSHM4QkxwTXNjd1BQSHNONWJuXzB5SjV4c3VGXy1jYjQyd2NmOUxwVzZvTkl5NUhaNE5ZN0FlLThFUmdiOGxXUG1KNnEyN0pUQmhYRUp2TE5VRnd1SU90XzZLLWxPVHB6Z2xpSVo0WnhYcUQxSmdnZ1NwMEd6X3pEWDNJUE1XNzB5dHRSQkkzU2hxSFFSRkVuR0dxX2VrdVRxc0w3eHdaSHVHTnZlX3B4d21qZzJXTURfMHhpeEtHRjMxcEVFWHdIOU91ejloNTQzc0cyZ1k2MlJSbHRVTHYycTBHaWN1YnR3TmwxYWV2d1E?oc=5",
-   "source": "TechRadar",
-   "date": "2026-11-24",
-   "kind": "PROBLEM",
-   "release": true
-  },
-  {
-   "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSjhwVmx5QlA4TjRVbWEtRXFaeVJIRWNCS3FTTkd2c2Q3d29HYUdFd0ZoZkZTaEtfTlVsMm92UTlSNU43YVp1QlJiUzhJdWVGMVVsZzRPdjdMWkQwVGI0UWRyTjJGQ0ktYXNRcmlpSmt1SnFiaERDRVJJbXlvd1dadDlFNXZNMXFBd1VFR0NKanlVbURSVnBrRXZBMVJ3bmJDMUlqVjZvQlhiMEN5dEt1elI5dnVTUm9xc0VHSlp4WFhDRGF2cTNNQ01nSGRjbUdsdkItYkh6NjFMQlI3UG1zdl9FN3dzbXI2OUlqRTF6UTN3aVU2aERMQ05jMXE2RFVy?oc=5",
-   "source": "Music Business Worldwide",
-   "date": "2026-11-24",
-   "kind": "PROBLEM",
    "release": false
   }
  ],
@@ -279,13 +279,13 @@
   "Ars Technica feeds.arstechnica.com": 0,
   "Google News %22AI%22+drums": 2,
   "Google News %22AI%22+drummer": 0,
-  "Google News %22AI+music%22": 39,
-  "Google News Suno+OR+Udio": 17,
+  "Google News %22AI+music%22": 40,
+  "Google News Suno+OR+Udio": 22,
   "Google News %22AI%22+music+lawsuit+OR+copyright": 12,
   "Google News %22AI%22+music+producer+plugin": 2,
-  "Google News news.google.com/rss/search?q=%22AI%22+drum+plugin+OR": "error: HTTP Error 429: Too Many Requests",
-  "Google News %22AI%22+stem+separation": 4,
-  "Google News %22AI%22+DAW+OR+%22Logic+Pro%22+OR+Ableton+OR+%22FL+Studio%22": 5,
+  "Google News %22AI%22+drum+plugin+OR+%22drum+machine%22": 4,
+  "Google News %22AI%22+stem+separation": 2,
+  "Google News %22AI%22+DAW+OR+%22Logic+Pro%22+OR+Ableton+OR+%22FL+Studio%22": 8,
   "Google News %22AI%22+MIDI+generator+OR+%22session+drummer%22": 0
  }
 }
