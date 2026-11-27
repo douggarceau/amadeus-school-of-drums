@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:23Z",
+ "updated": "2026-11-27T20:21Z",
  "items": [
   {
    "title": "Premier League predictions: Chris Sutton v Kings of Leon drummer Nathan Followill - & AI",
@@ -130,14 +130,6 @@
    "release": false
   },
   {
-   "title": "AI Companies Want Independent Music. This Time, They're Asking Permission.",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlBzNEJxUFhTMXNLeWtsRmUyV00zRzNIN2t0c2lQUi1TemdIUVZ2ODl3anVfRVRZRklOX2FLVUN5S1VkUUFJQUZINk9xSWc5cjZFOS13RGhVSzE4MEw2X19xLWszQVMyWkV1U1E2SVZnbTB1RnZ4YmdBTnZEdmx3MFQ5NmVTUlRmcFNMQ3JSR0pvOFVjdkg4aGRYVQ?oc=5",
-   "source": "Hypebot",
-   "date": "2026-11-26",
-   "kind": "NEWS",
-   "release": false
-  },
-  {
    "title": "Tidal is banning all 'entirely' AI-generated tracks - that's 27 million, and counting",
    "link": "https://www.musicradar.com/music-industry/streaming-sharing/tidal-is-banning-all-entirely-ai-generated-tracks-thats-27-million-and-counting",
    "source": "MusicRadar",
@@ -192,6 +184,14 @@
    "date": "2026-11-24",
    "kind": "NEWS",
    "release": false
+  },
+  {
+   "title": "\u2018Bye AI music\u2019: Tidal announces full ban on AI-generated songs \u2014 as Deezer reveals 57% of people have AI tunes lurking in their playlists",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNR1VsXzFWdWpTQ3NfVzd5d1lKeVdOckhVNkpKU21OalJuQzgzVVd4RnRiR2JLRm1KQURHczFJSHM4QkxwTXNjd1BQSHNONWJuXzB5SjV4c3VGXy1jYjQyd2NmOUxwVzZvTkl5NUhaNE5ZN0FlLThFUmdiOGxXUG1KNnEyN0pUQmhYRUp2TE5VRnd1SU90XzZLLWxPVHB6Z2xpSVo0WnhYcUQxSmdnZ1NwMEd6X3pEWDNJUE1XNzB5dHRSQkkzU2hxSFFSRkVuR0dxX2VrdVRxc0w3eHdaSHVHTnZlX3B4d21qZzJXTURfMHhpeEtHRjMxcEVFWHdIOU91ejloNTQzc0cyZ1k2MlJSbHRVTHYycTBHaWN1YnR3TmwxYWV2d1E?oc=5",
+   "source": "TechRadar",
+   "date": "2026-11-24",
+   "kind": "PROBLEM",
+   "release": true
   }
  ],
  "releases": [
@@ -277,15 +277,15 @@
   "The Verge www.theverge.com": 1,
   "TechCrunch techcrunch.com": 0,
   "Ars Technica feeds.arstechnica.com": 0,
-  "Google News %22AI%22+drums": 1,
+  "Google News %22AI%22+drums": 0,
   "Google News %22AI%22+drummer": 1,
   "Google News %22AI+music%22": 43,
-  "Google News Suno+OR+Udio": 22,
+  "Google News Suno+OR+Udio": 21,
   "Google News %22AI%22+music+lawsuit+OR+copyright": 15,
-  "Google News %22AI%22+music+producer+plugin": 2,
+  "Google News %22AI%22+music+producer+plugin": 3,
   "Google News %22AI%22+drum+plugin+OR+%22drum+machine%22": 3,
-  "Google News %22AI%22+stem+separation": 2,
-  "Google News %22AI%22+DAW+OR+%22Logic+Pro%22+OR+Ableton+OR+%22FL+Studio%22": 6,
+  "Google News %22AI%22+stem+separation": 1,
+  "Google News %22AI%22+DAW+OR+%22Logic+Pro%22+OR+Ableton+OR+%22FL+Studio%22": 4,
   "Google News %22AI%22+MIDI+generator+OR+%22session+drummer%22": 0
  }
 }
