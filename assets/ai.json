@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:26Z",
+ "updated": "2026-11-27T12:28Z",
  "items": [
   {
    "title": "Premier League predictions: Chris Sutton v Kings of Leon drummer Nathan Followill - & AI",
@@ -45,14 +45,6 @@
    "title": "Leap Into Void releases Artificial Intelligence soundset for UVI Falcon",
    "link": "https://rekkerd.org/leap-into-void-releases-artificial-intelligence-soundset-for-uvi-falcon/",
    "source": "Rekkerd",
-   "date": "2026-11-25",
-   "kind": "PRODUCT",
-   "release": true
-  },
-  {
-   "title": "Marketing veteran Gary Vaynerchuk launches AI \u2018personal avatar\u2019",
-   "link": "https://musically.com/2026/11/25/marketing-veteran-gary-vaynerchuk-launches-ai-personal-avatar/",
-   "source": "Music Ally",
    "date": "2026-11-25",
    "kind": "PRODUCT",
    "release": true
@@ -122,6 +114,14 @@
    "release": true
   },
   {
+   "title": "\u201cWhy do they want me? I'm just a human being\u201d: Guitarist George Lynch on his \u201cvery strange\u201d AI session",
+   "link": "https://www.musicradar.com/artists/guitarists/guitarist-george-lynch-on-his-very-strange-session-for-an-ai-track-i-was-like-why-do-they-want-me-i-mean-im-just-a-human-being-machines-do-it-way-better",
+   "source": "MusicRadar",
+   "date": "2026-11-27",
+   "kind": "NEWS",
+   "release": false
+  },
+  {
    "title": "ElevenLabs in early talks to raise at $33B valuation \u2013 more than six times that of AI music rival Suno (report)",
    "link": "https://www.musicbusinessworldwide.com/elevenlabs-in-early-talks-to-raise-at-33b-valuation-more-than-six-times-that-of-ai-music-rival-suno-report/",
    "source": "Music Business Worldwide",
@@ -138,19 +138,19 @@
    "release": false
   },
   {
+   "title": "AI Companies Want Independent Music. This Time, They're Asking Permission.",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlBzNEJxUFhTMXNLeWtsRmUyV00zRzNIN2t0c2lQUi1TemdIUVZ2ODl3anVfRVRZRklOX2FLVUN5S1VkUUFJQUZINk9xSWc5cjZFOS13RGhVSzE4MEw2X19xLWszQVMyWkV1U1E2SVZnbTB1RnZ4YmdBTnZEdmx3MFQ5NmVTUlRmcFNMQ3JSR0pvOFVjdkg4aGRYVQ?oc=5",
+   "source": "Hypebot",
+   "date": "2026-11-26",
+   "kind": "NEWS",
+   "release": false
+  },
+  {
    "title": "Tidal is banning all 'entirely' AI-generated tracks - that's 27 million, and counting",
    "link": "https://www.musicradar.com/music-industry/streaming-sharing/tidal-is-banning-all-entirely-ai-generated-tracks-thats-27-million-and-counting",
    "source": "MusicRadar",
    "date": "2026-11-25",
    "kind": "NEWS",
-   "release": false
-  },
-  {
-   "title": "Australia\u2019s AI and copyright debate heats up after new report",
-   "link": "https://musically.com/2026/11/25/australias-ai-and-copyright-debate-heats-up-after-new-report/",
-   "source": "Music Ally",
-   "date": "2026-11-25",
-   "kind": "PROBLEM",
    "release": false
   },
   {
@@ -220,14 +220,6 @@
    "release": true
   },
   {
-   "title": "Marketing veteran Gary Vaynerchuk launches AI \u2018personal avatar\u2019",
-   "link": "https://musically.com/2026/11/25/marketing-veteran-gary-vaynerchuk-launches-ai-personal-avatar/",
-   "source": "Music Ally",
-   "date": "2026-11-25",
-   "kind": "PRODUCT",
-   "release": true
-  },
-  {
    "title": "\u2018Bye AI music\u2019: Tidal announces full ban on AI-generated songs \u2014 as Deezer reveals 57% of people have AI tunes lurking in their playlists",
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNR1VsXzFWdWpTQ3NfVzd5d1lKeVdOckhVNkpKU21OalJuQzgzVVd4RnRiR2JLRm1KQURHczFJSHM4QkxwTXNjd1BQSHNONWJuXzB5SjV4c3VGXy1jYjQyd2NmOUxwVzZvTkl5NUhaNE5ZN0FlLThFUmdiOGxXUG1KNnEyN0pUQmhYRUp2TE5VRnd1SU90XzZLLWxPVHB6Z2xpSVo0WnhYcUQxSmdnZ1NwMEd6X3pEWDNJUE1XNzB5dHRSQkkzU2hxSFFSRkVuR0dxX2VrdVRxc0w3eHdaSHVHTnZlX3B4d21qZzJXTURfMHhpeEtHRjMxcEVFWHdIOU91ejloNTQzc0cyZ1k2MlJSbHRVTHYycTBHaWN1YnR3TmwxYWV2d1E?oc=5",
    "source": "TechRadar",
@@ -258,6 +250,14 @@
    "date": "2026-11-17",
    "kind": "PRODUCT",
    "release": true
+  },
+  {
+   "title": "iZotope launches AI-powered stem separation and audio enhancement plug-in, Photon",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONF9BbXdjeVBoS2ZpcWVCYXNkV1UxeDFOdGhYeE9uZ3AwMWRkZmlsa3g3TEMxTmFxTlM1X0U2UkZuU0FuNXFpZFJoMjBmZU1aSkdrZl90cmlkUmdyelNmTE9qQXBwOUdmU2hXaFVJMExDZlhjQlJwY05jWG1EWm03UzM0MXhiOWE2VkVPX1Rhdld4NzEtc3ZTRmkybFktb0lIZkE?oc=5",
+   "source": "DJ Mag",
+   "date": "2026-11-17",
+   "kind": "PRODUCT",
+   "release": true
   }
  ],
  "log": {
@@ -268,7 +268,7 @@
   "Gearnews www.gearnews.com": 0,
   "MusicTech musictech.com": 0,
   "Rekkerd rekkerd.org": 2,
-  "Music Ally musically.com": 5,
+  "Music Ally musically.com": 2,
   "Hypebot www.hypebot.com/feed/": "error: HTTP Error 404: Not Found",
   "Attack Magazine www.attackmagazine.com": 0,
   "Billboard www.billboard.com": 0,
@@ -283,9 +283,9 @@
   "Google News Suno+OR+Udio": 18,
   "Google News %22AI%22+music+lawsuit+OR+copyright": 9,
   "Google News %22AI%22+music+producer+plugin": 1,
-  "Google News %22AI%22+drum+plugin+OR+%22drum+machine%22": 1,
-  "Google News %22AI%22+stem+separation": 3,
-  "Google News %22AI%22+DAW+OR+%22Logic+Pro%22+OR+Ableton+OR+%22FL+Studio%22": 4,
+  "Google News %22AI%22+drum+plugin+OR+%22drum+machine%22": 3,
+  "Google News %22AI%22+stem+separation": 1,
+  "Google News %22AI%22+DAW+OR+%22Logic+Pro%22+OR+Ableton+OR+%22FL+Studio%22": 6,
   "Google News %22AI%22+MIDI+generator+OR+%22session+drummer%22": 0
  }
 }
