@@ -1,12 +1,33 @@
 {
- "updated": "2026-11-27T04:24Z",
+ "updated": "2026-11-27T08:25Z",
  "items": [
+  {
+   "id": "gUghs3GN9r8",
+   "title": "Meinl Cymbals - Jay Kalo, Alberto Garcia - Drum + Percussion Solo - Meinl Drum Festival 2026",
+   "source": "Meinl",
+   "date": "2026-11-24",
+   "kind": "EVENT"
+  },
   {
    "id": "jSInZHpBW4E",
    "title": "Ash Soan \u2013 \"Slave to the Rhythm\" | Live at The UK Drum Show 2026",
    "source": "Gretsch",
    "date": "2026-11-24",
    "kind": "EVENT"
+  },
+  {
+   "id": "I56cz8qXyr0",
+   "title": "Meinl Cymbals - Pure Alloy - Ryan Seaman \"Community Library\" Demo",
+   "source": "Meinl",
+   "date": "2026-11-23",
+   "kind": "DEMO"
+  },
+  {
+   "id": "JjaeGolWhT8",
+   "title": "Meinl Cymbals - Byzance Dark & Extra Dry Crashes Comparison",
+   "source": "Meinl",
+   "date": "2026-11-22",
+   "kind": "DEMO"
   },
   {
    "id": "RcR5pooWDjM",
@@ -44,44 +65,77 @@
    "kind": "TALK"
   },
   {
+   "id": "pom6mHZhSe4",
+   "title": "Pearl Export Series + Sabian Cymbal Pack",
+   "source": "Pearl",
+   "date": "2026-11-06",
+   "kind": "EVENT"
+  },
+  {
+   "id": "_kk5TzXmbYg",
+   "title": "Austin Archey (Lorna Shore) Soundcheck @DIAMOND HALL Nagoya",
+   "source": "Tama",
+   "date": "2026-10-31",
+   "kind": "DEMO"
+  },
+  {
+   "id": "EAV7jBscmGM",
+   "title": "Ludwig 5x14 Black Beauty Snare Drum Demo",
+   "source": "Ludwig",
+   "date": "2026-10-30",
+   "kind": "DEMO"
+  },
+  {
+   "id": "19zE638F_Rk",
+   "title": "Ludwig 5x14 Hammered Black Beauty Snare Drum Demo",
+   "source": "Ludwig",
+   "date": "2026-10-30",
+   "kind": "DEMO"
+  },
+  {
    "id": "rORrT3bj32A",
    "title": "Nic Collins & Better Strangers: The Unreleased Interview | Live at Gramps",
    "source": "Modern Drummer",
    "date": "2026-10-28",
    "kind": "INTERVIEW"
+  },
+  {
+   "id": "85OoO1xwMVk",
+   "title": "Dan Wilding (CARCASS) Soundcheck @Daikanyama Space ODD",
+   "source": "Tama",
+   "date": "2026-10-02",
+   "kind": "DEMO"
+  },
+  {
+   "id": "OfX-I8nj23E",
+   "title": "Classic Oak 6.5x14 Snare | Tuning and Head Comparison",
+   "source": "Ludwig",
+   "date": "2026-08-27",
+   "kind": "DEMO"
   }
  ],
  "log": {
-  "DW Drums @UC2OQnpI3N1yWsgFMSN_sekA": "error: HTTP Error 503: Service Unavailable",
   "DW Drums": "@DWDrums UC2OQnpI3N1yWsgFMSN_sekA dw drums (0)",
-  "Ludwig @UCxdiLfkkokXj09724KntoOw": "error: HTTP Error 503: Service Unavailable",
-  "Ludwig": "not found",
-  "Meinl @UCZjkQtRELyrearglF3lYa8Q": "error: HTTP Error 503: Service Unavailable",
-  "Meinl": "not found",
-  "Meinl Drum Festival @UCfWNjFlMw-OGiLttkFGfHCA": "error: HTTP Error 503: Service Unavailable",
-  "Meinl Drum Festival": "not found",
-  "Roland @UC4vbiZMU_yrheYVZH393-Zw": "error: HTTP Error 503: Service Unavailable",
-  "Roland": "not found",
+  "Ludwig": "UCxdiLfkkokXj09724KntoOw UCxdiLfkkokXj09724KntoOw Ludwig Drums (3)",
+  "Meinl": "UCZjkQtRELyrearglF3lYa8Q UCZjkQtRELyrearglF3lYa8Q MEINL Cymbals (6)",
+  "Meinl Drum Festival": "UCfWNjFlMw-OGiLttkFGfHCA UCfWNjFlMw-OGiLttkFGfHCA meinldrumfestival (0)",
+  "Roland": "UC4vbiZMU_yrheYVZH393-Zw UC4vbiZMU_yrheYVZH393-Zw RolandChannel (0)",
   "Drumeo": "@drumeoofficial UCBiJBaDaM3K6vPVggLhTyWA Drumeo (0)",
-  "Tama @UCTSkpJG7QWeungk9q6Je2_g": "error: HTTP Error 503: Service Unavailable",
-  "Tama": "not found",
-  "Pearl @UCmGi7DMBXl7aTOG1HDbRWoQ": "error: HTTP Error 503: Service Unavailable",
-  "Pearl": "not found",
+  "Tama": "UCTSkpJG7QWeungk9q6Je2_g UCTSkpJG7QWeungk9q6Je2_g TAMA Drums Official (4)",
+  "Pearl": "UCmGi7DMBXl7aTOG1HDbRWoQ UCmGi7DMBXl7aTOG1HDbRWoQ Pearl Drums (1)",
   "Gretsch": "UCCi7ihBj53YSjNI9lY7nXtA UCCi7ihBj53YSjNI9lY7nXtA gretschdrumsusa (2)",
-  "Sabian @@SABIANcymbals": "error: HTTP Error 503: Service Unavailable",
-  "Sabian @@sabiancymbals": "error: HTTP Error 503: Service Unavailable",
+  "Sabian skip UCJbu6KNGcKK5KsVAxLoh2xA": "sabiancymbals",
   "Sabian skip UCNmSiKDIL1GKy71hbnSMUvQ": "SabianOfficial",
   "Sabian": "search UCYMHPzMObdBSSjkhyk_P_nQ SABIAN Cymbals (1)",
-  "Paiste @UC1F5S6gl2-dTch-TZ2q4b9Q": "error: HTTP Error 503: Service Unavailable",
-  "Paiste": "not found",
+  "Paiste": "UC1F5S6gl2-dTch-TZ2q4b9Q UC1F5S6gl2-dTch-TZ2q4b9Q Paiste Cymbals (1)",
   "Modern Drummer": "UChdBw0Hg_27aS88DiG4p5qw UChdBw0Hg_27aS88DiG4p5qw Modern Drummer Official (1)",
   "Drumtalk TV": "UCXtZ8sYopX36If_QH6b4IJQ UCXtZ8sYopX36If_QH6b4IJQ DrumTalkTV (6)",
   "NAMM @NAMM": "error: HTTP Error 404: Not Found",
-  "NAMM @@NAMMvideos": "error: HTTP Error 503: Service Unavailable",
   "NAMM": "search UCx-aX_SThYdePajxjTTpgKw Namm - Topic (0)",
-  "NAMM @search": "error: HTTP Error 503: Service Unavailable",
-  "Percussive Arts Society": "search UCuYb7irDBJx-ep94c9b2qMw Percussive Arts Society (0)",
-  "Percussive Arts Society @search": "error: HTTP Error 503: Service Unavailable",
-  "Percussive Arts Society skip UC02Dbuv0mWAnAlh4DTmJSXQ": "Michael C. Garcia"
+  "NAMM skip UCbU_XU_xwnoXc58AtwlMyCg": "\u300c\ud835\udde1\ud835\uddd4\ud835\udde0\ud835\udde0\u300d\u300c+6\ud835\uddf8\u300d",
+  "Percussive Arts Society": "search UCNdbAtTAk6G5YrFuTFnCcAg Percussive Arts Society Philippines (0)",
+  "Percussive Arts Society skip UC02Dbuv0mWAnAlh4DTmJSXQ": "Michael C. Garcia",
+  "Percussive Arts Society skip UCiGMMHogGoEoz37aUt3YImw": "Drummer Photographer",
+  "Percussive Arts Society skip UC-B0wx_W7TKkb66dzumzY9A": "Millikin Percussion Ensemble"
  }
 }
