@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T04:23Z",
+ "updated": "2026-11-28T08:24Z",
  "items": [
   {
    "title": "Premier League predictions: Chris Sutton v Kings of Leon drummer Nathan Followill - & AI",
@@ -82,9 +82,9 @@
    "release": true
   },
   {
-   "title": "Suno's 'Bridge' Promises DAW Integrations with Ableton On Board",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNzdOVndjcTFKYV90a1l1TkY3OFMzYUZlclF4d19iM0VGMEYzNFhUMjUyNGdGenhfWTg5TklpNVNHYzVUcWM1T2ZrbDhjeUlEMUF6ajJRTWdTOVFJaFRQOUdBRndXaXQ4VVNrYkMtbGZCeWRxX0xLUlNGd3FuVzlfWkVLS2dfaXU1?oc=5",
-   "source": "Digital Music News",
+   "title": "Suno Bridge takes AI music to DAWs \u2013 starting with Ableton Live",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWS1rRkZxbWt0TjBzT3pKQkd3QV9ueUhiMFZ2WXZ5ZlN0RGxBejdlWmg1TWtMZWItWUFDZG1mVmd3Y25BcTdkeGdNYXNOYkJMTUJxby0xQ19nTmFsWDdZOEdPcDhVbnRIdmIyNGxOQlhtZXVvdGl4YTdHZE5EUl9nTF94VHQxdzEybUN2dnlhcU1naGF4OGI1cE5kWQ?oc=5",
+   "source": "Music Ally",
    "date": "2026-11-16",
    "kind": "PRODUCT",
    "release": false
@@ -154,6 +154,14 @@
    "release": false
   },
   {
+   "title": "TIDAL bans AI-generated music",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFdk5JLTkzZVdCa3dXOHFQanJ1R0dwM3ljY2dQdWZkV3djQmZKUi1JLVU3eDFzZnR6bEwwSW5GYmdDSFVKcE92SFgyeFhfYUNyZ2xOenFCYXRTZ3NIVk1MeFNB?oc=5",
+   "source": "DJ Mag",
+   "date": "2026-11-25",
+   "kind": "PROBLEM",
+   "release": false
+  },
+  {
    "title": "Tidal Is the First Streaming Service to Ban AI Music",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQmhYMnVFVFRfeW1QTmNnV19tdFhheGg1UkhuY3B5RFhkb3hoOENXcktwSGpJajlmelJ2RmRhWTZBTTdvWFNnb1FmT2MzVURET29ieVZZVm5uUjhRVnlfRU42cmQ1YkVBMzhKVHltMFBybUpuMEZwVjN0SjdRZkROWV8zUQ?oc=5",
    "source": "Rolling Stone",
@@ -184,14 +192,6 @@
    "date": "2026-11-24",
    "kind": "PROBLEM",
    "release": true
-  },
-  {
-   "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSjhwVmx5QlA4TjRVbWEtRXFaeVJIRWNCS3FTTkd2c2Q3d29HYUdFd0ZoZkZTaEtfTlVsMm92UTlSNU43YVp1QlJiUzhJdWVGMVVsZzRPdjdMWkQwVGI0UWRyTjJGQ0ktYXNRcmlpSmt1SnFiaERDRVJJbXlvd1dadDlFNXZNMXFBd1VFR0NKanlVbURSVnBrRXZBMVJ3bmJDMUlqVjZvQlhiMEN5dEt1elI5dnVTUm9xc0VHSlp4WFhDRGF2cTNNQ01nSGRjbUdsdkItYkh6NjFMQlI3UG1zdl9FN3dzbXI2OUlqRTF6UTN3aVU2aERMQ05jMXE2RFVy?oc=5",
-   "source": "Music Business Worldwide",
-   "date": "2026-11-24",
-   "kind": "PROBLEM",
-   "release": false
   }
  ],
  "releases": [
@@ -277,15 +277,15 @@
   "The Verge www.theverge.com": 1,
   "TechCrunch techcrunch.com": 0,
   "Ars Technica feeds.arstechnica.com": 0,
-  "Google News %22AI%22+drums": 1,
+  "Google News %22AI%22+drums": 0,
   "Google News %22AI%22+drummer": 1,
-  "Google News %22AI+music%22": 39,
-  "Google News Suno+OR+Udio": 22,
+  "Google News %22AI+music%22": 42,
+  "Google News Suno+OR+Udio": 17,
   "Google News %22AI%22+music+lawsuit+OR+copyright": 16,
-  "Google News %22AI%22+music+producer+plugin": 3,
-  "Google News %22AI%22+drum+plugin+OR+%22drum+machine%22": 1,
-  "Google News %22AI%22+stem+separation": 1,
-  "Google News %22AI%22+DAW+OR+%22Logic+Pro%22+OR+Ableton+OR+%22FL+Studio%22": 6,
+  "Google News %22AI%22+music+producer+plugin": 1,
+  "Google News %22AI%22+drum+plugin+OR+%22drum+machine%22": 3,
+  "Google News %22AI%22+stem+separation": 2,
+  "Google News %22AI%22+DAW+OR+%22Logic+Pro%22+OR+Ableton+OR+%22FL+Studio%22": 3,
   "Google News %22AI%22+MIDI+generator+OR+%22session+drummer%22": 0
  }
 }
