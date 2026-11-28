@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T12:25Z",
+ "updated": "2026-11-28T16:21Z",
  "sources": [
   "Modern Drummer (8)",
   "Drumming News Network (8)",
@@ -10,14 +10,15 @@
   "The UK Drum Show (8)",
   "Drummerworld (8)",
   "Scott K Fish (5)",
-  "The Drum Ninja (8)",
   "Electronic Drum Advisor (8)",
   "drum-tec (8)",
   "The Drummer's Journal (8)",
   "MusicRadar (8)"
  ],
- "errors": {},
- "raw_count": 65,
+ "errors": {
+  "The Drum Ninja": "mismatched tag: line 93, column 2"
+ },
+ "raw_count": 57,
  "items": [
   {
    "title": "Remembering Phil Barker: Celebrating the Life and Legacy of a Punk Rock Drumming Legend",
@@ -41,12 +42,6 @@
    "title": "Todd Sucherman takes us on a kit tour",
    "link": "https://drummersreview.com/news/todd-sucherman-takes-us-on-a-kit-tour/",
    "source": "Drummer's Review",
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Money Drum Transcription",
-   "link": "https://thedrumninja.com/money-drum-transcription/",
-   "source": "The Drum Ninja",
    "date": "2026-11-27"
   },
   {
@@ -188,27 +183,9 @@
    "date": "2026-11-02"
   },
   {
-   "title": "Roland TD-07KV2 Review",
-   "link": "https://thedrumninja.com/roland-td-07kv2-review/",
-   "source": "The Drum Ninja",
-   "date": "2026-10-30"
-  },
-  {
-   "title": "EFNOTE PRO 501 Review",
-   "link": "https://thedrumninja.com/efnote-pro-501-review/",
-   "source": "The Drum Ninja",
-   "date": "2026-10-30"
-  },
-  {
    "title": "Meinl HCS Dark Cymbals",
    "link": "https://en.beatit.tv/meinl-hcs-dark-cymbals/",
    "source": "Beat It",
-   "date": "2026-10-29"
-  },
-  {
-   "title": "By the Way Drum Transcription",
-   "link": "https://thedrumninja.com/by-the-way-drum-transcription/",
-   "source": "The Drum Ninja",
    "date": "2026-10-29"
   },
   {
@@ -258,6 +235,30 @@
    "link": "https://theukdrumshow.com/show-news/medeli-to-make-debut-at-the-uk-drum-show/",
    "source": "The UK Drum Show",
    "date": "2026-10-13"
+  },
+  {
+   "title": "Dominic Howard (Muse) joins Ludwig family",
+   "link": "https://en.beatit.tv/dominic-howard-muse-joins-ludwig-family/",
+   "source": "Beat It",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "150 Only: Drumeo \u00d7 SABIAN Bundle Lands at The UK Drum Show",
+   "link": "https://theukdrumshow.com/show-news/150-only-drumeo-x-sabian-bundle-lands-at-the-uk-drum-show/",
+   "source": "The UK Drum Show",
+   "date": "2026-10-07"
+  },
+  {
+   "title": "SWISS DRUM WORLD IS COMING TO THE UK DRUM SHOW 2026!",
+   "link": "https://theukdrumshow.com/show-news/swiss-drum-world-is-coming-to-the-uk-drum-show-2026/",
+   "source": "The UK Drum Show",
+   "date": "2026-10-06"
+  },
+  {
+   "title": "CJ HOKDAL: From \u201cThat Swedish Drummer\u201d to The UK Drum Show",
+   "link": "https://theukdrumshow.com/show-news/cj-hokdal-from-that-swedish-drummer-to-the-uk-drum-show/",
+   "source": "The UK Drum Show",
+   "date": "2026-10-06"
   }
  ]
 }
