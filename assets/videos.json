@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:21Z",
+ "updated": "2026-11-28T00:39Z",
  "items": [
   {
    "id": "FMYBJQYs64w",
@@ -48,6 +48,13 @@
    "title": "Drama Era Rehearsal Footage, Rick Wakeman's Silent Night & More Yesshift News Desk Edition 11/17/26",
    "source": "Drumtalk TV",
    "date": "2026-11-18",
+   "kind": "TALK"
+  },
+  {
+   "id": "yxpo1R2WI_4",
+   "title": "The SABIAN Podcast | S1E6: Billy Cobham on His Legendary Career, Miles Davis & Spectrum",
+   "source": "Sabian",
+   "date": "2026-11-17",
    "kind": "TALK"
   },
   {
@@ -105,13 +112,6 @@
    "source": "Ludwig",
    "date": "2026-08-27",
    "kind": "DEMO"
-  },
-  {
-   "id": "yWToFFWz_bk",
-   "title": "Blake Richardson (BETWEEN THE BURIED AND ME) Soundcheck @Shibuya CYCLONE",
-   "source": "Tama",
-   "date": "2026-08-11",
-   "kind": "DEMO"
   }
  ],
  "log": {
@@ -126,15 +126,16 @@
   "Gretsch": "UCCi7ihBj53YSjNI9lY7nXtA UCCi7ihBj53YSjNI9lY7nXtA gretschdrumsusa (2)",
   "Sabian skip UCJbu6KNGcKK5KsVAxLoh2xA": "sabiancymbals",
   "Sabian skip UCNmSiKDIL1GKy71hbnSMUvQ": "SabianOfficial",
-  "Sabian": "not found",
+  "Sabian": "search UCYMHPzMObdBSSjkhyk_P_nQ SABIAN Cymbals (1)",
   "Paiste": "UC1F5S6gl2-dTch-TZ2q4b9Q UC1F5S6gl2-dTch-TZ2q4b9Q Paiste Cymbals (1)",
   "Modern Drummer": "UChdBw0Hg_27aS88DiG4p5qw UChdBw0Hg_27aS88DiG4p5qw Modern Drummer Official (1)",
   "Drumtalk TV": "UCXtZ8sYopX36If_QH6b4IJQ UCXtZ8sYopX36If_QH6b4IJQ DrumTalkTV (6)",
   "NAMM @NAMM": "error: HTTP Error 404: Not Found",
-  "NAMM": "search UCWgbWGvYAjhPPVBg_93dUPA Namm Paikaii (0)",
+  "NAMM": "search UCx-aX_SThYdePajxjTTpgKw Namm - Topic (0)",
+  "NAMM skip UCxACdc7GLM33Fdxf0NruP7g": " @namm",
   "Percussive Arts Society": "search UCNdbAtTAk6G5YrFuTFnCcAg Percussive Arts Society Philippines (0)",
   "Percussive Arts Society skip UC02Dbuv0mWAnAlh4DTmJSXQ": "Michael C. Garcia",
-  "Percussive Arts Society skip UCiGMMHogGoEoz37aUt3YImw": "Drummer Photographer",
-  "Percussive Arts Society skip UC-B0wx_W7TKkb66dzumzY9A": "Millikin Percussion Ensemble"
+  "Percussive Arts Society skip UC-B0wx_W7TKkb66dzumzY9A": "Millikin Percussion Ensemble",
+  "Percussive Arts Society skip UC5SzIbwvx2xPPU0B-6fQBfw": "The University of Alabama Percussion Stu"
  }
 }

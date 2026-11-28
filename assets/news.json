@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-27T20:21Z",
+ "updated": "2026-11-28T00:39Z",
  "sources": [
   "Modern Drummer (8)",
   "Drumming News Network (8)",
+  "Drummer's Review (8)",
   "Beat It (8)",
   "Drumeo (8)",
   "Sick Drummer Magazine (8)",
+  "The UK Drum Show (8)",
   "Drummerworld (8)",
   "Scott K Fish (5)",
   "The Drum Ninja (8)",
@@ -14,16 +16,25 @@
   "The Drummer's Journal (8)",
   "MusicRadar (8)"
  ],
- "errors": {
-  "Drummer's Review": "mismatched tag: line 93, column 2",
-  "The UK Drum Show": "mismatched tag: line 93, column 2"
- },
- "raw_count": 49,
+ "errors": {},
+ "raw_count": 65,
  "items": [
   {
    "title": "Black Friday Drum Deals 2026: Save Big on Gear from Top Drum Manufacturers",
    "link": "https://www.drummingnewsnetwork.com/black-friday-drum-deals-2026-save-big-on-gear-from-top-drum-manufacturers/",
    "source": "Drumming News Network",
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Todd Sucherman takes us on a kit tour",
+   "link": "https://drummersreview.com/news/todd-sucherman-takes-us-on-a-kit-tour/",
+   "source": "Drummer's Review",
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Money Drum Transcription",
+   "link": "https://thedrumninja.com/money-drum-transcription/",
+   "source": "The Drum Ninja",
    "date": "2026-11-27"
   },
   {
@@ -43,6 +54,18 @@
    "link": "https://www.drummingnewsnetwork.com/sabian-introduces-toneroll-an-adjustable-cymbal-dampener-that-lets-drummers-reshape-any-cymbals-sound/",
    "source": "Drumming News Network",
    "date": "2026-11-24"
+  },
+  {
+   "title": "Mike Terrana: Metal, Mayhem, Malmsteen & More",
+   "link": "https://drummersreview.com/news/mike-terrana-metal-mayhem-malmsteen-more/",
+   "source": "Drummer's Review",
+   "date": "2026-11-24"
+  },
+  {
+   "title": "SABIAN Introduces ToneRoll",
+   "link": "https://drummersreview.com/news/sabian-introduces-toneroll/",
+   "source": "Drummer's Review",
+   "date": "2026-11-23"
   },
   {
    "title": "Dorothea Taylor signature snare drum",
@@ -75,6 +98,12 @@
    "date": "2026-11-19"
   },
   {
+   "title": "Tamburo Launches the Dorothea Taylor Signature Snare",
+   "link": "https://drummersreview.com/news/tamburo-launches-the-dorothea-taylor-signature-snare/",
+   "source": "Drummer's Review",
+   "date": "2026-11-19"
+  },
+  {
    "title": "John Tempesta has left The Cult",
    "link": "https://en.beatit.tv/john-tempesta-has-left-the-cult/",
    "source": "Beat It",
@@ -85,6 +114,18 @@
    "link": "https://www.drummingnewsnetwork.com/georgia-tech-launches-hearme-a-free-ai-music-app/",
    "source": "Drumming News Network",
    "date": "2026-11-18"
+  },
+  {
+   "title": "RT Custom Drums: Looks To Kill. Sound To Match?",
+   "link": "https://drummersreview.com/news/rt-custom-drums-looks-to-kill-sound-to-match/",
+   "source": "Drummer's Review",
+   "date": "2026-11-13"
+  },
+  {
+   "title": "Richard Spaven: \u201cYou Can\u2019t Live It Through YouTube\u201d",
+   "link": "https://drummersreview.com/news/richard-spaven-you-cant-live-it-through-youtube/",
+   "source": "Drummer's Review",
+   "date": "2026-11-13"
   },
   {
    "title": "Roger Taylor leaves Duran Duran",
@@ -123,10 +164,22 @@
    "date": "2026-11-06"
   },
   {
+   "title": "Gretsch Drums Launches E-Drum Series Catalina EVO",
+   "link": "https://drummersreview.com/news/gretsch-drums-launches-e-drum-series-catalina-evo/",
+   "source": "Drummer's Review",
+   "date": "2026-11-04"
+  },
+  {
    "title": "Troy Van Leeuwen and Jon Theodore on learning to love mistakes and the making of QOTSA\u2019s Perfecth album",
    "link": "https://www.musicradar.com/artists/queens-of-the-stone-age-perfecth-",
    "source": "MusicRadar",
    "date": "2026-11-04"
+  },
+  {
+   "title": "Hercules Introduces Modular Clamp-On Mic Arm System In Collaboration With Progressive Drummer Craig Blundell",
+   "link": "https://drummersreview.com/accessories/hercules-introduces-modular-clamp-on-mic-arm-system-in-collaboration-with-progressive-drummer-craig-blundell/",
+   "source": "Drummer's Review",
+   "date": "2026-11-03"
   },
   {
    "title": "\u201cThis new rack trims the often labour-intensive task of setting up an e-kit by a fair margin\u201d: Roland TD-07KV2 review",
@@ -201,64 +254,10 @@
    "date": "2026-10-14"
   },
   {
-   "title": "Don\u2019t Stop Me Now Drum Transcription",
-   "link": "https://thedrumninja.com/dont-stop-me-now-drum-transcription/",
-   "source": "The Drum Ninja",
+   "title": "Medeli to make debut at The UK Drum Show",
+   "link": "https://theukdrumshow.com/show-news/medeli-to-make-debut-at-the-uk-drum-show/",
+   "source": "The UK Drum Show",
    "date": "2026-10-13"
-  },
-  {
-   "title": "Dominic Howard (Muse) joins Ludwig family",
-   "link": "https://en.beatit.tv/dominic-howard-muse-joins-ludwig-family/",
-   "source": "Beat It",
-   "date": "2026-10-12"
-  },
-  {
-   "title": "Fluorescent Adolescent Drum Transcription",
-   "link": "https://thedrumninja.com/fluorescent-adolescent-drum-transcription/",
-   "source": "The Drum Ninja",
-   "date": "2026-10-07"
-  },
-  {
-   "title": "EFNOTE 3X Review",
-   "link": "https://thedrumninja.com/efnote-3x-review/",
-   "source": "The Drum Ninja",
-   "date": "2026-10-06"
-  },
-  {
-   "title": "Sex on Fire Drum Transcription",
-   "link": "https://thedrumninja.com/sex-on-fire-drum-transcription/",
-   "source": "The Drum Ninja",
-   "date": "2026-10-05"
-  },
-  {
-   "title": "Ohana Festival",
-   "link": "https://www.moderndrummer.com/2026/10/ohana-festival/",
-   "source": "Modern Drummer",
-   "date": "2026-10-02"
-  },
-  {
-   "title": "Every Breath You Take Drum Transcription",
-   "link": "https://thedrumninja.com/every-breath-you-take-drum-transcription/",
-   "source": "The Drum Ninja",
-   "date": "2026-10-01"
-  },
-  {
-   "title": "Kevin Paradis \u2013 Agonanist \u2013 Effacement \u2013 Exclusive Drum Play-through",
-   "link": "https://sickdrummermagazine.com/news/latest-news/kevin-paradis-agonanist-effacement-drum-play-through/",
-   "source": "Sick Drummer Magazine",
-   "date": "2026-09-29"
-  },
-  {
-   "title": "\u201cIt\u2019s hard to argue with the amount of features on offer here for such an affordable price\u201d: Millenium Drums MPS-350 E-Drum Set review",
-   "link": "https://www.musicradar.com/drums/electronic-drums/millenium-drums-mps-350-e-drum-set-review",
-   "source": "MusicRadar",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "WOODIES Drumsticks Review",
-   "link": "https://sickdrummermagazine.com/s1-news/c82-product-reviews/woodies-drumsticks-review-why-the-5a-long-won-me-over/",
-   "source": "Sick Drummer Magazine",
-   "date": "2026-09-17"
   }
  ]
 }
